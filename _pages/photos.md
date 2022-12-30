@@ -23,6 +23,7 @@ author_profile: true
 ## UPSA Board Photo _in 100°F Weather!_ (September 2022)
 
 ## BEARS - SAAS Project (April 2022)
+<img width="800" alt="BEARS - SAAS Project (April 2022)" src="https://user-images.githubusercontent.com/100865459/210117209-332f5eb0-f3b8-466b-8e41-3823f18c9cb5.jpeg">
 
 ## Cal Day (April 2022)
 
