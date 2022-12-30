@@ -19,10 +19,10 @@ Education
   * Psi Chi
 
 * __Diploma, Scripps Ranch High School__, August 2016 - June 2020
-  * 4.0 Scholar
   * Golden State Seal Merit Diploma
   * Academic Distinction
   * Honor Roll
+  * 4.0 Scholar
 
 Teaching Experience
 ======
@@ -45,7 +45,7 @@ Research Experience
 
 Work Experience
 ======
-* __[UC Berkeley Student Learning Center (SLC) Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
+* __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
@@ -61,7 +61,7 @@ Work Experience
   
 Service
 ======
-* __[Vice Provost’s Student Advisory Council (SACUE) Member, University of California, Berkeley: Division of Undergraduate Education](https://ue.berkeley.edu/committees/sacue)__ (_August 2022 - Present_)
+* __[Vice Provost’s Student Advisory Council Member, University of California, Berkeley: Division of Undergraduate Education](https://ue.berkeley.edu/committees/sacue)__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
