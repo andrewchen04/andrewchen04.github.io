@@ -2,7 +2,7 @@ Freshman Year Dorm View (August 2020)
 
 SAAS Banquet (December 2021)
 
-Summer Bridge Reunion ()
+Summer Bridge Reunion (March 2022)
 
 Cal Day (April 2022)
 
