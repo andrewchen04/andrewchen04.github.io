@@ -1,7 +1,7 @@
 ---
 title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (January 2022 - Present)"
-collection: teaching
-type: ""
+collection: research
+type: 
 permalink: /research/critcher
 venue: "University of California, Berkeley: Haas School of Business"
 date: 2022-01-01
