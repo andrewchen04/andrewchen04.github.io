@@ -13,23 +13,29 @@ author_profile: true
 
 ## BEARS - PCS Project (November 2022)
 
+
 ## SOMO Lab Pizza Party (November 2022)
 <img width="800" alt="SOMO Lab Pizza Party (November 2022)" src="https://user-images.githubusercontent.com/100865459/210116506-de5f9d75-84ca-416b-969b-54998517d4b3.jpeg">
 
 ## ASUC _Shady_ Office Photo (October 2022)
 
+
 ## SACUE Sunset Photo (October 2022)
 
+
 ## UPSA Board Photo _in 100°F Weather!_ (September 2022)
+
 
 ## BEARS - SAAS Project (April 2022)
 <img width="800" alt="BEARS - SAAS Project (April 2022)" src="https://user-images.githubusercontent.com/100865459/210117209-332f5eb0-f3b8-466b-8e41-3823f18c9cb5.jpeg">
 
 ## Cal Day (April 2022)
 
+
 ## Summer Bridge Reunion (March 2022)
-<img width="800" alt="Summer Bridge Reunion (March 2022)" src="https://user-images.githubusercontent.com/100865459/210116912-9e1c2741-be84-4cea-834a-9606a59b6d5f.png">
+<img width="800" alt="Summer Bridge Reunion (March 2022)" src="https://user-images.githubusercontent.com/100865459/210117269-4eb7bf9b-e36c-497c-945d-af6a80b0fed8.png">
 
 ## SAAS Banquet (December 2021)
+
 
 ## Freshman Year Dorm View (August 2020)
