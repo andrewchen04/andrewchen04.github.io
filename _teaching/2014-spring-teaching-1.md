@@ -8,13 +8,7 @@ date: 2022-08-01
 location: "Berkeley, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+__Responsibilities__:
+• Leads two weekly group tutoring sections, reinforcing students’ understanding of the week’s concepts with exam-style practice problems
+• Holds course office hours, monitors the online Q&A forum, grades homework assignments and projects, and proctors and grades exams
+• Regularly consults with the lead instructors to practice effective pedagogy and refine course materials
