@@ -1,15 +1,16 @@
 ---
-title: "Lab Assistant, Data 8: Foundations of Data Science (Spring 2022)"
+title: "Group Tutor, Data 8: Foundations of Data Science (Spring 2022)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2022-spring
+permalink: /teaching/2022-fall
 venue: "University of California, Berkeley: Division of Computing, Data Science, and Society (CDSS)"
-date: 2022-01-01
+date: 2022-08-01
 location: "Berkeley, California"
 ---
 
 __Responsibilities__:
-- Met with a shadow Teaching Assistant (TA) throughout the semester to practice and reflect on personal pedagogy skills and professional development
-- Assisted 45 students every week in lab with questions about discussion worksheets, Jupyter notebook assignments, projects, and other course materials in DATA 8: Foundations of Data Science, a 2000+ person course that teaches students of all majors and statistics/computer science backgrounds the core concepts of inference and computing while working hands-on with real data
+- Leads two weekly group tutoring sections, reinforcing students’ understanding of the week’s concepts with exam-style practice problems
+- Holds course office hours, monitors the online Q&A forum, grades homework assignments and projects, and proctors and grades exams
+- Regularly consults with the lead instructors to practice effective pedagogy and refine course materials
 
-_Course materials are available [here](http://www.data8.org/sp22/)._
+_Course materials are available [here](http://www.data8.org/fa22/)._
