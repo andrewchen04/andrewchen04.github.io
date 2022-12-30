@@ -145,7 +145,8 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Survey Methods
 * Technologies
   * Adobe Creative Cloud
-  * Google Drive
+  * Canva
+  * Google Workspace
   * Microsoft Office
   * Slack
   * Zoom
