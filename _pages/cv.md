@@ -14,7 +14,10 @@ _WORK IN PROGRESS_
 Education
 ======
 * B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley, July 2020 - May 2024 (_Expected_)
+  * Honors to Date
+
 * Diploma, Scripps Ranch High School, San Diego, California, August 2016 - June 2020
+  * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
 
 Research Experience
 ======
