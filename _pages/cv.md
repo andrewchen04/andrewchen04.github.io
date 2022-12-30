@@ -19,13 +19,13 @@ Education
 * Diploma, Scripps Ranch High School, San Diego, California, August 2016 - June 2020
   * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
 
-Research Experience
+Teaching
 ======
-* SOMO
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* SOMO
-
-Work Experience
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -37,23 +37,21 @@ Work Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Teaching
+Work Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 
   
-Leadership
-======
-* ASUC
-
-* UPSA
-
 Service
 ======
 * __Vice Provost’s Student Advisory Council Member, University of California, Berkeley: Division of Undergraduate Education__
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
+
+Leadership
+======
+* ASUC
+
+* UPSA
 
 Organizations
 ======
