@@ -11,26 +11,26 @@ redirect_from:
 
 _Last Updated: January 1, 2023_
 
-Education
+[Education](#education)
 ======
 * __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, <br />July 2020 - May 2024 (_Expected_)
   * Honors to Date
   * Pi Sigma Alpha
   * Psi Chi
 
-Teaching Experience
+[Teaching Experience](#teaching-experience)
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research Experience
+[Research Experience](#research-experience)
 ======
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work Experience
+[Work Experience](#work-experience)
 ======
 * __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
@@ -46,7 +46,7 @@ Work Experience
   * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
   * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
   
-Service
+[Service](#service)
 ======
 __UC Berkeley Division of Undergraduate Education__
 
@@ -54,7 +54,7 @@ __UC Berkeley Division of Undergraduate Education__
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
-Leadership
+[Leadership](#leadership)
 ======
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
@@ -77,7 +77,7 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
   * Improved overall membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
 
-Organizations
+[Organizations](#organizations)
 ======
 
 __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
@@ -107,7 +107,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
 
-Skills
+[Skills](#skills)
 ======
 * Interpersonal
   * Diversity and Inclusion
@@ -141,7 +141,7 @@ Skills
   * Academic Coaching
   * Peer Mentoring
 
-Coursework at UC Berkeley
+[Coursework at UC Berkeley](#coursework-at-uc-berkeley)
 ======
 _Junior Year_
 * Spring 2023
@@ -199,7 +199,7 @@ _Freshman Year_
   * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
   * THEATER 5: Public Speaking and Presentation Skills
 
-Other Coursework
+[Other Coursework](#other-coursework)
 ======
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 * Spring 2022
