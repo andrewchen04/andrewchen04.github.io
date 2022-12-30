@@ -15,9 +15,14 @@ Education
 ======
 * __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2020 - May 2024 (_Expected_)
   * Honors to Date
+  * Pi Sigma Alpha
+  * Psi Chi
 
 * __Diploma, Scripps Ranch High School__, August 2016 - June 2020
-  * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
+  * 4.0 Scholar
+  * Golden State Seal Merit Diploma
+  * Academic Distinction
+  * Honor Roll
 
 Teaching Experience
 ======
@@ -113,12 +118,6 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
 
-__[Psi Chi at Berkeley](https://psichi.berkeley.edu/)__
-* 
-
-__Pi Sigma Alpha, The National Political Science Honor Society__
-* 
-
 Skills
 ======
 * Interpersonal
@@ -149,7 +148,7 @@ Skills
   * Microsoft Office
   * Slack
   * Zoom
-* University Teaching/Advising
+* University Advising/Teaching
   * Academic Coaching
   * Peer Mentoring
 
