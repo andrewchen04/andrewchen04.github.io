@@ -17,7 +17,7 @@ Please enjoy this assortment of photos.
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117950-622ab56e-3ed3-48fa-9542-8d697bb59e30.jpeg">
 
 ## SOMO Lab Pizza Party (November 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210116506-de5f9d75-84ca-416b-969b-54998517d4b3.jpeg">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210118590-f3974db6-639d-40f4-806e-adcd0155798b.jpeg">
 
 ## ASUC _Shady_ Office Photo (October 2022)
 8)
@@ -32,7 +32,7 @@ Please enjoy this assortment of photos.
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
 ## Cal Day (April 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210118170-beef3c38-767a-4496-a964-3bc8a376033a.jpg">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210118535-fe70fbb8-9ca0-4dad-bed6-f4fd5e2a2482.jpeg">
 
 ## Summer Bridge Reunion (March 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210117706-6ad42703-f9f5-4c84-95ca-422c8834a245.jpg">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210118681-aceb5816-d9ff-4a37-aa27-7a11ac8540f8.jpeg">
