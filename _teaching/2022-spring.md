@@ -10,3 +10,5 @@ location: "Berkeley, California"
 
 __Responsibilities__:
 - 
+
+_Course materials are available [here](http://www.data8.org/sp22/)._
