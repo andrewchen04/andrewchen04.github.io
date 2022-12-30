@@ -1,9 +1,9 @@
 ---
-title: "Lab Assistant, Data 8: Foundations of Data Science"
+title: "Lab Assistant, Data 8: Foundations of Data Science (Spring 2022)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-spring
-venue: "University of California, Berkeley, Division of Computing, Data Science, and Society (CDSS)"
+venue: "University of California, Berkeley: Division of Computing, Data Science, and Society (CDSS)"
 date: 2022-01-01
 location: "Berkeley, California"
 ---
