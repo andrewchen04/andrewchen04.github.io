@@ -190,9 +190,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  photos:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -233,16 +230,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _photos
-  - scope:
-      path: ""
-      type: photos
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
   # _publications
   - scope:
       path: ""
