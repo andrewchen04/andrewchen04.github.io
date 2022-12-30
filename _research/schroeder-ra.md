@@ -4,7 +4,6 @@ collection: research
 type: "Research Assistant"
 permalink: /research/critcher
 venue: "University of California, Berkeley: Haas School of Business"
-date: 2022-01-01
 location: "Berkeley, California"
 ---
 
