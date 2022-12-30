@@ -93,15 +93,15 @@ _Sophomore Year_
   * DATA 198: 
   * UGIS 192B: 
 * Fall 2021
-  * POLSCI 109Z: 
-  * STAT 2: 
-  * COMPSCI 88: 
-  * STAT 88: 
-  * POLSCI 88: 
-  * COMPSCI 197: 
+  * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Currently known as DATA C88C_)
+  * COMPSCI 197: Field Study
+  * POLSCI 88: The Scientific Study of Politics
+  * POLSCI 109Z: Crime and Democracy
+  * STAT 2: Introduction to Statistics
+  * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Currently known as DATA C88S_)
 * Summer 2021
-  * POLSCI W164A
-  * [DATA 8: Foundations of Data Science](data8.org)
+  * [DATA 8: Foundations of Data Science](http://www.data8.org/su21/)
+  * POLSCI W164A: Political Psychology and Involvement
 
 _Freshman Year_
 * Spring 2021
