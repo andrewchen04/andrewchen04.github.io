@@ -27,6 +27,7 @@ author_profile: true
 ## Cal Day (April 2022)
 
 ## Summer Bridge Reunion (March 2022)
+<img width="800" alt="Summer Bridge Reunion (March 2022)" src="https://user-images.githubusercontent.com/100865459/210116912-9e1c2741-be84-4cea-834a-9606a59b6d5f.png">
 
 ## SAAS Banquet (December 2021)
 
