@@ -63,37 +63,68 @@ Skills
 ======
 * 
 
-Coursework
+Coursework at UC Berkeley
 ======
 _Junior Year_
 * Spring 2023
-  * POLSCI
-  * POLSCI
+  * POLSCI 132B: 
+  * POLSCI 191: 
+  * PSYCH 147: 
+  * PSYCH 130: 
+  * DATA 198: 
+  * UGBA 199: 
 * Fall 2022
-  * 
-  *
+  * STAT 133: 
+  * PSYCH 134: 
+  * COMPSCI 370: 
+  * POLSCI 192: 
+  * DATA 198: 
+  * UGIS 192B: 
+  * UGBA 199: 
 * Summer 2022
-  * 
-  * 
+  * POLSCI 109B: 
+  * MCELLBI W61: 
 
 _Sophomore Year_
 * Spring 2022
-  * 
-  * 
+  * POLSCI 161: 
+  * PSYCH 101: 
+  * PBHLTH 142: 
+  * DATA 198: 
+  * UGIS 192B: 
 * Fall 2021
-  * 
-  * 
+  * POLSCI 109Z: 
+  * STAT 2: 
+  * COMPSCI 88: 
+  * STAT 88: 
+  * POLSCI 88: 
+  * COMPSCI 197: 
 * Summer 2021
-  * 
-  * 
+  * POLSCI W164A
+  * [DATA 8: Foundations of Data Science](data8.org)
 
 _Freshman Year_
 * Spring 2021
-  * 
-  * 
+  * POLSCI 112C: 
+  * ECON 1: 
+  * MATH 16A: 
+  * NUSCTX 11: 
+  * UGBA 135: 
 * Fall 2020
-  * 
-  * 
+  * POLSCI 5: 
+  * ANTHRO R5B: 
+  * EPS 7: 
+  * LS 2: 
+  * HISTORY 98BC: 
 * Summer 2020
-  * 
-  * 
+  * ETHSTD 10 AC: 
+  * THEATER 5:
+  * ESPM 98: 
+
+Other Coursework
+======
+_San Diego City College_
+* 
+
+_San Diego Miramar College_
+* 
