@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+_WORK IN PROGRESS_
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley, July 2020 - May 2024 (_Expected_)
+* Diploma, Scripps Ranch High School, San Diego, California, August 2016 - June 2020
 
-Work experience
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -54,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
