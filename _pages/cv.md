@@ -169,7 +169,7 @@ _Junior Year_
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
   * PSYCH 134: Health Psychology
-  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
+  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)<br />Assignment: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))<br />Assignment: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
   * UGBA 199: Supervised Independent Study and Research
   * UGIS 192B: Supervised Research: Social Sciences
 * Summer 2022
