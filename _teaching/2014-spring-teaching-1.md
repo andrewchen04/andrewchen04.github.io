@@ -3,7 +3,7 @@ title: "Group Tutor, Data 8: Foundations of Data Science"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of California, Berkeley, Division of Data Science, Computing, and Society"
+venue: "University of California, Berkeley, Division of Data Science, Computing, and Society (CDSS)"
 date: 2022-08-01
 location: "Berkeley, California"
 ---
