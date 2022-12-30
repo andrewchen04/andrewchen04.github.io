@@ -9,6 +9,6 @@ location: "Berkeley, California"
 ---
 
 __Responsibilities__:
-• Leads two weekly group tutoring sections, reinforcing students’ understanding of the week’s concepts with exam-style practice problems
-• Holds course office hours, monitors the online Q&A forum, grades homework assignments and projects, and proctors and grades exams
-• Regularly consults with the lead instructors to practice effective pedagogy and refine course materials
+- Leads two weekly group tutoring sections, reinforcing students’ understanding of the week’s concepts with exam-style practice problems
+- Holds course office hours, monitors the online Q&A forum, grades homework assignments and projects, and proctors and grades exams
+- Regularly consults with the lead instructors to practice effective pedagogy and refine course materials
