@@ -121,6 +121,14 @@ __Psi Chi__
 
 Skills
 ======
+* Interpersonal
+  * Diversity and Inclusion
+  * Event Planning
+  * Management
+  * Organization
+  * Public Speaking
+  * Servant Leadership
+  * Team Building
 * Programming Languages
   * IBM SPSS Statistics
   * Java
@@ -132,17 +140,6 @@ Skills
   * Git
   * Machine Learning
   * Object-Oriented Programming (OOP)
-* Interpersonal
-  * Diversity and Inclusion
-  * Event Planning
-  * Management
-  * Organization
-  * Public Speaking
-  * Servant Leadership
-  * Team Building
-* University Teaching/Advising
-  * Academic Coaching
-  * Peer Mentoring
 * Research
   * Experimental Design
   * Survey Methods
@@ -152,6 +149,9 @@ Skills
   * Microsoft Office
   * Slack
   * Zoom
+* University Teaching/Advising
+  * Academic Coaching
+  * Peer Mentoring
 
 Coursework at UC Berkeley
 ======
