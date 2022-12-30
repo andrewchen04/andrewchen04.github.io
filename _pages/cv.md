@@ -27,25 +27,26 @@ Teaching
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* __SOMO Lab / XLab Research Apprentice (Social Judgment Research with Co-Director Juliana Schroeder)__ (_June 2022 - Present_)
+  * Works directly with Professor Schroeder and multiple graduate students on several social judgment research projects in the Experimental Social Science Laboratory (XLab) facilities
+  * Performs tasks including, but not limited to, promoting the lab, recruiting participants, running in-person and virtual experiments, designing surveys and other study materials, piloting surveys, cleaning data, coding data, analyzing data, transcribing participant interviews, conducting literature reviews, proofreading papers to be published, and editing APA citations (using Qualtrics, SPSS, and Sona Systems)
+  * Shadows the current SOMO Lab Manager in preparation to assume the role in May 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* __SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher)__ (_January 2022 - Present_)
+  * Works directly with Professor Critcher and five graduate students in the Social and Moral Judgment (SOMO) Lab, specifically in the Haas Behavioral Laboratory (BLab) facilities, on “The Psychology of Forecasting, Politics, Consumer Behavior, and Morality”
+  * Specifically assists Visiting Ph.D. Student Researcher André Vaz with researching cumulative redundancy bias and the better-than-average-effect (BTAE)
+  * Applies the scientific method to answer complex questions in consumer behavior and social psychology
+  * Generates ideas for research studies, participates in meetings with Professor Critcher and other apprentices, coordinates and conducts research experiments, and codes and analyzes quantitative and qualitative data (using Qualtrics, Microsoft Excel, and Sona Systems)
 
 Work Experience
 ======
-* __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing) (June 2022 - August 2022)__
+* __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
   * Performed administrative tasks including, but not limited to, maintaining program usage data, managing the online appointment system and program LISTSERV, and providing support to program professional staff
 
-* __[UC Berkeley Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge) (January 2021 - June 2022)__
+* __[UC Berkeley Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge)__ (_January 2021 - June 2022_)
   * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring/summer
   * Hosted and participated in dynamic and inclusive in-person and virtual outreach events, information sessions, speaker panels, and student workshops, ranging from 25 to 1,000 students in attendance with their support networks
   * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
@@ -55,7 +56,7 @@ Work Experience
   
 Service
 ======
-* __Vice Provost’s Student Advisory Council Member, University of California, Berkeley: Division of Undergraduate Education__
+* __Vice Provost’s Student Advisory Council Member, University of California, Berkeley: Division of Undergraduate Education__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
