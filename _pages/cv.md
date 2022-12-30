@@ -62,7 +62,7 @@ Service
 
 Leadership
 ======
-* __[Associated Students of the University of California](https://asuc.org/)__
+[Associated Students of the University of California](https://asuc.org/)
 
 _Senatorial Tasks Administrator (Office of Senator Carlos C. Vázquez) (July 2022 - Present)_
 * Administrative Team Officer, whose main objectives are to ensure the proper functioning of the 25-member office, assist other executives and teams with projects, and specialize in specific skills
@@ -212,10 +212,10 @@ _Freshman Year_
 
 Other Coursework
 ======
-_San Diego City College_
+__San Diego City College__
 * PSYC 101: General Psychology
 
-_San Diego Miramar College_
+__San Diego Miramar College__
 * ADJU 101: Introduction to the Administration of Justice
 * ADJU 102: Criminal Law I
 * POLI 101: Introduction to Political Science
