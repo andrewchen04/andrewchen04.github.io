@@ -1,10 +1,10 @@
 ---
-title: "Lab Assistant"
+title: "Group Tutor, Data 8: Foundations of Data Science"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of California, Berkeley, Division of Data Science, Computing, and Society"
-date: 2022-01-01
+date: 2022-08-01
 location: "Berkeley, California"
 ---
 
