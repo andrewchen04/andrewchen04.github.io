@@ -39,7 +39,19 @@ Research Experience
 
 Work Experience
 ======
-* 
+* [Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing) (June 2022 - August 2022)
+  * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
+  * Greeted and guided writers to sign in and connected them with appropriate services/sessions
+  * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
+  * Performed administrative tasks including, but not limited to, maintaining program usage data, managing the online appointment system and program LISTSERV, and providing support to program professional staff
+
+* [Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge) (January 2021 - June 2022)
+  * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring/summer
+  * Hosted and participated in dynamic and inclusive in-person and virtual outreach events, information sessions, speaker panels, and student workshops, ranging from 25 to 1,000 students in attendance with their support networks
+  * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
+  * Collaborated with a team of 49 peer and professional staff in weekly group cohesion and awareness workshops
+  * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
+  * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
   
 Service
 ======
@@ -55,7 +67,7 @@ Leadership
 
 Organizations
 ======
-* 
+* __Pi Sigma Alpha, The National Political Science Honor Society__
 
 Skills
 ======
