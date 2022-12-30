@@ -164,7 +164,7 @@ _Junior Year_
   * PSYCH 147: Methods in Cognitive Development
   * UGBA 199: Supervised Independent Study and Research
 * Fall 2022
-  * COMPSCI 370: Adaptive Instruction Methods in Computer Science
+  * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/)
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
   * PSYCH 134: Health Psychology
