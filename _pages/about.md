@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Andrew, a third-year undergraduate pursuing a double major in Political Science and Psychology and a minor in Data Science at the University of California, Berkeley. I am passionate about studying the intersections between politics, psychology, data, and education. In particular, I am interested in researching the psychosocial factors that influence public opinion, especially biases, social pressure, and the lack of accurate information, through laboratory and field experiments.
+Hello! I'm Andrew, a third-year undergraduate pursuing a double major in [Political Science](https://polisci.berkeley.edu/) and Psychology and a minor in Data Science at the University of California, Berkeley. I am passionate about studying the intersections between politics, psychology, data, and education. In particular, I am interested in researching the psychosocial factors that influence public opinion, especially biases, social pressure, and the lack of accurate information, through laboratory and field experiments.
 
 Outside of my own academics and research, I am committed to empowering students to accomplish their personal and academic ambitions by ensuring that all students are well-equipped with the resources they need to succeed through my work with multiple student organizations, the [Division of Computing, Data Science, and Society (CDSS)](https://data.berkeley.edu/), the [Associated Students of the University of California (ASUC)](https://asuc.org/), and the [Student Learning Center (SLC)](https://slc.berkeley.edu/) at UC Berkeley.
 
