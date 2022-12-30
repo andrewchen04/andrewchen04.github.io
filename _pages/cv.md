@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-_WORK IN PROGRESS; Last Updated: January 1, 2023_
+_Last Updated: January 1, 2023_
 
 Education
 ======
 * __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2020 - May 2024 (_Expected_)
   * Honors to Date
 
-* __Diploma, Scripps Ranch High School__, San Diego, California, August 2016 - June 2020
+* __Diploma, Scripps Ranch High School__, August 2016 - June 2020
   * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
 
 Teaching Experience
