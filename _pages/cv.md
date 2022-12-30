@@ -13,10 +13,10 @@ _WORK IN PROGRESS; Last Updated: January 1, 2023_
 
 Education
 ======
-* B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley, July 2020 - May 2024 (_Expected_)
+* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2020 - May 2024 (_Expected_)
   * Honors to Date
 
-* Diploma, Scripps Ranch High School, San Diego, California, August 2016 - June 2020
+* __Diploma, Scripps Ranch High School__, San Diego, California, August 2016 - June 2020
   * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
 
 Teaching Experience
@@ -113,6 +113,9 @@ _Career Exploration Committee Member (January 2021 - May 2021)_
 * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
 
 * __Pi Sigma Alpha, The National Political Science Honor Society__
+  * 
+
+* __Psi Chi__
   * 
 
 Skills
