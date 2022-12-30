@@ -14,7 +14,7 @@ Hello! I'm Andrew, a third-year undergraduate pursuing a double major in Politic
 
 Outside of my own academics and research, I am committed to empowering students to accomplish their personal and academic ambitions by ensuring that all students are well-equipped with the resources they need to succeed through my work with multiple student organizations, the Division of Computing, Data Science, and Society (CDSS), the Associated Students of the University of California (ASUC), and the Student Learning Center (SLC) at UC Berkeley.
 
-Please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/andrewchen04/) or at [andrew_chen04@berkeley.edu](andrew_chen04@berkeley.edu)!
+Please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/andrewchen04/) or at andrew_chen04@berkeley.edu!
 
 Getting started
 ======
