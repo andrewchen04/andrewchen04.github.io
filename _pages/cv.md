@@ -83,7 +83,7 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
-* __Social Chair, Representative to the Alliance for Civic Engagement__ (_April 2022 - Present_)
+* __Social Chair, Representative to the Alliance for Civic Engagement (ACE)__ (_April 2022 - Present_)
   * Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
   * Serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
