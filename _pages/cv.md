@@ -39,13 +39,13 @@ Research Experience
 
 Work Experience
 ======
-* [Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing) (June 2022 - August 2022)
+* __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing) (June 2022 - August 2022)__
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
   * Performed administrative tasks including, but not limited to, maintaining program usage data, managing the online appointment system and program LISTSERV, and providing support to program professional staff
 
-* [Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge) (January 2021 - June 2022)
+* __[UC Berkeley Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge) (January 2021 - June 2022)__
   * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring/summer
   * Hosted and participated in dynamic and inclusive in-person and virtual outreach events, information sessions, speaker panels, and student workshops, ranging from 25 to 1,000 students in attendance with their support networks
   * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
@@ -63,22 +63,28 @@ Leadership
 ======
 * ASUC
 
-* UPSA
+* __[UC Berkeley Undergraduate Political Science Association](https://upsaberkeley.wixsite.com/my-site)
+
+_Social Chair, Representative to the Alliance for Civic Engagement (April 2022 - Present)
+* Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
+* Serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
+* Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
+* Improved overall membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
 
 Organizations
 ======
 * __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
-_Internal Affairs Committee Member, House Prefect (May 2021 - Present)
+_Internal Affairs Committee Member, House Prefect (May 2021 - Present)_
 * Contributes to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 150 members to interact with one another outside of their designated committees
 * Performs internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, organizing study sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
 
-_Research and Publication Committee Member (January 2022 - May 2022)
+_Research and Publication Committee Member (January 2022 - May 2022)_
 * Participated in weekly workshops covering advanced techniques in data cleaning, data analysis, data visualization, version control, quantitative and qualitative research, and presentation skills (with various libraries and packages in Python and R)
 * Constructed a logistic regression model that predicted whether Black Lives Matter (BLM) protests would or would not occur in a United States locality based on selected demographic features with 77% accuracy, 77% precision, 80% recall, and an AUC of 0.83
 * Presented results at the Spring 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
 
-_Career Exploration Committee Member (January 2021 - May 2021)
+_Career Exploration Committee Member (January 2021 - May 2021)_
 * Participated in weekly lectures exploring foundational concepts and tools in statistics, data science, machine learning, and Python programming (with pandas, NumPy, scikit-learn, seaborn, and matplotlib)
 * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
 * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
