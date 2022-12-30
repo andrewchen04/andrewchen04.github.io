@@ -64,20 +64,20 @@ Leadership
 ======
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
-* Senatorial Tasks Administrator (Office of Senator Carlos C. Vázquez) (_July 2022 - Present_)
+* __Senatorial Tasks Administrator (Office of Senator Carlos C. Vázquez)__ (_July 2022 - Present_)
   * Administrative Team Officer, whose main objectives are to ensure the proper functioning of the 25-member office, assist other executives and teams with projects, and specialize in specific skills
   * Hosts weekly office hours to gather feedback from campus community members on how we can better serve them and their needs
   * Executes senatorial duties including, but not limited to, writing weekly and special Senate reports and requesting room reservations and necessary accommodations
   * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
 
-* Interim Legislative Department Director (Office of Senator Carlos C. Vázquez) (_July 2022 - September 2022_)
+* __Interim Legislative Department Director (Office of Senator Carlos C. Vázquez)__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
   * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
   * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
 
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
-* Social Chair, Representative to the Alliance for Civic Engagement (_April 2022 - Present_)
+* __Social Chair, Representative to the Alliance for Civic Engagement__ (_April 2022 - Present_)
   * Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
   * Serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
@@ -88,9 +88,9 @@ Organizations
 
 __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
-* Senior Project Analyst (_January 2023 - Present_)
+* __Senior Project Analyst__ (_January 2023 - Present_)
 
-* Lead Education Project Research Analyst (_August 2022 - December 2022_)
+* __Lead Education Project Research Analyst__ (_August 2022 - December 2022_)
   * Analyzed risk factors affecting public schools and charter schools in California with public government datasets (using Python, GeoPandas, pandas, seaborn, SQL, and Tableau)
   * Compiled research findings into an interactive website and comprehensive legislative proposal
   * Produced an easy-to-understand voter guide identifying 2022 general election candidates in California who held policy positions that were most conducive to achieving student improvement and success
@@ -99,16 +99,16 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
-* Internal Affairs Committee Member, House Prefect (_May 2021 - Present_)
+* __Internal Affairs Committee Member, House Prefect__ (_May 2021 - Present_)
   * Contributes to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 150 members to interact with one another outside of their designated committees
   * Performs internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, organizing study sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
 
-* Research and Publication Committee Member (_January 2022 - May 2022_)
+* __Research and Publication Committee Member__ (_January 2022 - May 2022_)
   * Participated in weekly workshops covering advanced techniques in data cleaning, data analysis, data visualization, version control, quantitative and qualitative research, and presentation skills (with various libraries and packages in Python and R)
   * Constructed a logistic regression model that predicted whether Black Lives Matter (BLM) protests would or would not occur in a United States locality based on selected demographic features with 77% accuracy, 77% precision, 80% recall, and an AUC of 0.83
   * Presented results at the Spring 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
 
-* Career Exploration Committee Member (_January 2021 - May 2021_)
+* __Career Exploration Committee Member__ (_January 2021 - May 2021_)
   * Participated in weekly lectures exploring foundational concepts and tools in statistics, data science, machine learning, and Python programming (with pandas, NumPy, scikit-learn, seaborn, and matplotlib)
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
