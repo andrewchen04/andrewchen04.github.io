@@ -19,7 +19,7 @@ Education
 * Diploma, Scripps Ranch High School, San Diego, California, August 2016 - June 2020
   * 4.0 Scholar, Golden State Seal Merit Diploma, Academic Distinction, Honor Roll
 
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
