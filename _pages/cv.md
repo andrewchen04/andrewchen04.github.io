@@ -100,7 +100,7 @@ _Sophomore Year_
   * STAT 2: Introduction to Statistics
   * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Currently known as DATA C88S_)
 * Summer 2021
-  * [DATA 8: Foundations of Data Science](http://www.data8.org/su21/)
+  * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
   * POLSCI W164A: Political Psychology and Involvement
 
 _Freshman Year_
@@ -108,7 +108,7 @@ _Freshman Year_
   * ECON 1: Introduction to Economics
   * MATH 16A: Analytic Geometry and Calculus
   * NUSCTX 11: Introduction to Toxicology
-  * POLSCI 112C: History of Political Theory, 19th and 20th Centuries
+  * POLSCI 112C: History of Political Theory (19th and 20th Centuries)
   * UGBA 135: Personal Financial Management
 * Fall 2020
   * ANTHRO R5B: Reading and Composition in Anthropology
@@ -118,7 +118,7 @@ _Freshman Year_
   * POLSCI 5: Introduction to International Relations
 * Summer 2020
   * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
-  * ETHSTD 10 AC: A History of Race and Ethnicity in Western North America, 1598 - Present
+  * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
   * THEATER 5: Public Speaking and Presentation Skills
 
 Other Coursework
