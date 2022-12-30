@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_WORK IN PROGRESS_
+_Last Updated: January 1, 2023_
 
 Education
 ======
@@ -85,6 +85,17 @@ _Social Chair, Representative to the Alliance for Civic Engagement (April 2022 -
 
 Organizations
 ======
+
+__[Political Computer Science @ Berkeley](https://pcs.berkeley.edu/)__
+
+* Senior Project Analyst (_January 2023 - Present_)
+* Lead Education Project Research Analyst (August 2022 - December 2022)
+  * Analyzed risk factors affecting public schools and charter schools in California with public government datasets (using Python, GeoPandas, pandas, seaborn, SQL, and Tableau)
+  * Compiled research findings into an interactive website and comprehensive legislative proposal
+  * Produced an easy-to-understand voter guide identifying 2022 general election candidates in California who held policy positions that were most conducive to achieving student improvement and success
+  * Presented results at the Fall 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
+  * Served as the primary liaison for PCS in coordinating logistics for BEARS
+
 * __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
 _Internal Affairs Committee Member, House Prefect (May 2021 - Present)_
@@ -102,6 +113,7 @@ _Career Exploration Committee Member (January 2021 - May 2021)_
 * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
 
 * __Pi Sigma Alpha, The National Political Science Honor Society__
+  * 
 
 Skills
 ======
