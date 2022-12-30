@@ -56,13 +56,13 @@ Work Experience
   
 Service
 ======
-* __[Vice Provost’s Student Advisory Council Member, University of California, Berkeley: Division of Undergraduate Education](https://ue.berkeley.edu/committees/sacue)__ (_August 2022 - Present_)
+* __[Vice Provost’s Student Advisory Council (SACUE) Member, University of California, Berkeley: Division of Undergraduate Education](https://ue.berkeley.edu/committees/sacue)__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
 Leadership
 ======
-__[Associated Students of the University of California](https://asuc.org/)__
+__[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * Senatorial Tasks Administrator (Office of Senator Carlos C. Vázquez) (_July 2022 - Present_)
   * Administrative Team Officer, whose main objectives are to ensure the proper functioning of the 25-member office, assist other executives and teams with projects, and specialize in specific skills
@@ -75,7 +75,7 @@ __[Associated Students of the University of California](https://asuc.org/)__
   * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
   * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
 
-__[UC Berkeley Undergraduate Political Science Association](https://upsaberkeley.wixsite.com/my-site)__
+__[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
 * Social Chair, Representative to the Alliance for Civic Engagement (_April 2022 - Present_)
   * Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
@@ -86,7 +86,7 @@ __[UC Berkeley Undergraduate Political Science Association](https://upsaberkeley
 Organizations
 ======
 
-__[Political Computer Science @ Berkeley](https://pcs.berkeley.edu/)__
+__[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 * Senior Project Analyst (_January 2023 - Present_)
 
@@ -129,6 +129,10 @@ Skills
   * Public Speaking
   * Servant Leadership
   * Team Building
+* Programming Concepts/Tools
+  * Git
+  * Machine Learning
+  * Object-Oriented Programming (OOP)
 * Programming Languages
   * IBM SPSS Statistics
   * Java
@@ -136,10 +140,6 @@ Skills
   * Python
   * R
   * Qualtrics
-* Programming Concepts/Tools
-  * Git
-  * Machine Learning
-  * Object-Oriented Programming (OOP)
 * Research
   * Experimental Design
   * Survey Methods
