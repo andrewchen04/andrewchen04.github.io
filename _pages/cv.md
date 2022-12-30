@@ -89,7 +89,8 @@ Organizations
 __[Political Computer Science @ Berkeley](https://pcs.berkeley.edu/)__
 
 * Senior Project Analyst (_January 2023 - Present_)
-* Lead Education Project Research Analyst (August 2022 - December 2022)
+
+* Lead Education Project Research Analyst (_August 2022 - December 2022_)
   * Analyzed risk factors affecting public schools and charter schools in California with public government datasets (using Python, GeoPandas, pandas, seaborn, SQL, and Tableau)
   * Compiled research findings into an interactive website and comprehensive legislative proposal
   * Produced an easy-to-understand voter guide identifying 2022 general election candidates in California who held policy positions that were most conducive to achieving student improvement and success
