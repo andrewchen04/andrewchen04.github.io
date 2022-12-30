@@ -105,26 +105,31 @@ _Sophomore Year_
 
 _Freshman Year_
 * Spring 2021
-  * POLSCI 112C: 
-  * ECON 1: 
-  * MATH 16A: 
-  * NUSCTX 11: 
-  * UGBA 135: 
+  * ECON 1: Introduction to Economics
+  * MATH 16A: Analytic Geometry and Calculus
+  * NUSCTX 11: Introduction to Toxicology
+  * POLSCI 112C: History of Political Theory, 19th and 20th Centuries
+  * UGBA 135: Personal Financial Management
 * Fall 2020
-  * POLSCI 5: 
-  * ANTHRO R5B: 
-  * EPS 7: 
-  * LS 2: 
-  * HISTORY 98BC: 
+  * ANTHRO R5B: Reading and Composition in Anthropology
+  * EPS 7: Introduction to Climate Change
+  * HISTORY 98BC:	Berkeley Connect in History
+  * LS 2: Democracy in Crisis?
+  * POLSCI 5: Introduction to International Relations
 * Summer 2020
-  * ETHSTD 10 AC: 
-  * THEATER 5:
-  * ESPM 98: 
+  * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
+  * ETHSTD 10 AC: A History of Race and Ethnicity in Western North America, 1598 - Present
+  * THEATER 5: Public Speaking and Presentation Skills
 
 Other Coursework
 ======
 _San Diego City College_
-* 
+* PSYC 101: General Psychology
 
 _San Diego Miramar College_
-* 
+* ADJU 101: Introduction to the Administration of Justice
+* ADJU 102: Criminal Law I
+* POLI 101: Introduction to Political Science
+* POLI 102: The American Political System
+* SOCO 101: Principles of Sociology
+* SOCO 110: Contemporary Social Problems
