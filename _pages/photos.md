@@ -27,15 +27,10 @@ author_profile: true
 
 
 ## BEARS - SAAS Project (April 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210117209-332f5eb0-f3b8-466b-8e41-3823f18c9cb5.jpeg">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
 ## Cal Day (April 2022)
 
 
 ## Summer Bridge Reunion (March 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210117269-4eb7bf9b-e36c-497c-945d-af6a80b0fed8.png">
-
-## SAAS Banquet (December 2021)
-
-
-## Freshman Year Dorm View (August 2020)
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210117542-f555b76c-b17c-435f-8ef8-fa1b3b1115ff.png">
