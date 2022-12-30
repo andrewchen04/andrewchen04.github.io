@@ -30,18 +30,6 @@ Research Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* BLAH
-* __[SOMO Lab](https://www.somolab.org/) / [XLab](https://xlab.berkeley.edu/) Research Apprentice (Social Judgment Research with Co-Director [Juliana Schroeder](https://julianaschroeder.com/))__ (_June 2022 - Present_)
-  * Works directly with Professor Schroeder and multiple graduate students on several social judgment research projects in the Experimental Social Science Laboratory (XLab) facilities
-  * Performs tasks including, but not limited to, promoting the lab, recruiting participants, running in-person and virtual experiments, designing surveys and other study materials, piloting surveys, cleaning data, coding data, analyzing data, transcribing participant interviews, conducting literature reviews, proofreading papers to be published, and editing APA citations (using Qualtrics, SPSS, and Sona Systems)
-  * Shadows the current SOMO Lab Manager in preparation to assume the role in May 2023
-
-* __[SOMO Lab](https://www.somolab.org/) / [BLab](https://haas.berkeley.edu/behavioral-lab/) Research Apprentice (Moral Judgment Research with Co-Director [Clayton R. Critcher](http://claytoncritcher.squarespace.com/))__ (_January 2022 - Present_)
-  * Works directly with Professor Critcher and five graduate students in the Social and Moral Judgment (SOMO) Lab, specifically in the Haas Behavioral Laboratory (BLab) facilities, on “The Psychology of Forecasting, Politics, Consumer Behavior, and Morality”
-  * Specifically assists Visiting Ph.D. Student Researcher André Vaz with researching cumulative redundancy bias and the better-than-average-effect (BTAE)
-  * Applies the scientific method to answer complex questions in consumer behavior and social psychology
-  * Generates ideas for research studies, participates in meetings with Professor Critcher and other apprentices, coordinates and conducts research experiments, and codes and analyzes quantitative and qualitative data (using Qualtrics, Microsoft Excel, and Sona Systems)
-
 Work Experience
 ======
 * __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
