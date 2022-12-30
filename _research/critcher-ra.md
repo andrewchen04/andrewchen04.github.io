@@ -1,7 +1,10 @@
 ---
 title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (January 2022 - Present)"
+collection: research
+type: "Research Assistant"
 permalink: /research/critcher-ra
-date: 2022-01-01
+venue: "University of California, Berkeley: Haas School of Business"
+location: "Berkeley, California"
 ---
 
 __Responsibilities__:
@@ -9,10 +12,3 @@ __Responsibilities__:
 - Specifically assists Visiting Ph.D. Student Researcher André Vaz with researching cumulative redundancy bias and the better-than-average-effect (BTAE)
 - Applies the scientific method to answer complex questions in consumer behavior and social psychology
 - Generates ideas for research studies, participates in meetings with Professor Critcher and other apprentices, coordinates and conducts research experiments, and codes and analyzes quantitative and qualitative data (using Qualtrics, Microsoft Excel, and Sona Systems)
-- title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (January 2022 - Present)"
-- collection: research
-- type: "Research Assistant"
-- permalink: /research/critcher-ra
-- venue: "University of California, Berkeley: Haas School of Business"
-- date: 2022-01-01
-- location: "Berkeley, California"
