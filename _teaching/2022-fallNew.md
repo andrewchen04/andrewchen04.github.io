@@ -1,5 +1,5 @@
 ---
-title: "Group Tutor, Data 8: Foundations of Data Science (Spring 2022)"
+title: "Group Tutor, Data 8: Foundations of Data Science (Fall 2022)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-fall
