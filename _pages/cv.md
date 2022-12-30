@@ -202,7 +202,7 @@ _Freshman Year_
   * UGBA 135: Personal Financial Management
 * Fall 2020
   * ANTHRO R5B: Reading and Composition in Anthropology
-  * EPS 7: Introduction to Climate Change
+  * [EPS 7: Introduction to Climate Change](https://romps.berkeley.edu/teaching/courses-2020-fall-eps7.html)
   * HISTORY 98BC:	Berkeley Connect in History
   * LS 2: Democracy in Crisis?
   * POLSCI 5: Introduction to International Relations
