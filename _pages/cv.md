@@ -18,12 +18,6 @@ Education
   * Pi Sigma Alpha
   * Psi Chi
 
-* __Diploma, Scripps Ranch High School__, August 2016 - June 2020
-  * Golden State Seal Merit Diploma
-  * Academic Distinction
-  * Honor Roll
-  * 4.0 Scholar
-
 Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -214,13 +208,17 @@ _Freshman Year_
 
 Other Coursework
 ======
-__[San Diego City College](https://www.sdcity.edu/)__ (_January 2022_)
+__[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 * PSYC 101: General Psychology
 
-__[San Diego Miramar College](https://sdmiramar.edu/)__ (_August 2018 - June 2020_)
-* ADJU 101: Introduction to the Administration of Justice
-* ADJU 102: Criminal Law I
-* POLI 101: Introduction to Political Science
-* POLI 102: The American Political System
-* SOCO 101: Principles of Sociology
-* SOCO 110: Contemporary Social Problems
+__[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
+* Spring 2020
+  * POLI 101: Introduction to Political Science
+  * SOCO 110: Contemporary Social Problems
+* Fall 2019
+  * ADJU 102: Criminal Law I
+  * POLI 102: The American Political System
+* Spring 2019
+  * ADJU 101: Introduction to the Administration of Justice
+* Fall 2018
+  * SOCO 101: Principles of Sociology
