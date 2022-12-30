@@ -67,20 +67,20 @@ Coursework at UC Berkeley
 ======
 _Junior Year_
 * Spring 2023
-  * POLSCI 132B: 
-  * POLSCI 191: 
-  * PSYCH 147: 
-  * PSYCH 130: 
-  * DATA 198: 
-  * UGBA 199: 
+  * DATA 198: Directed Group Studies for Advanced Undergraduates
+  * POLSCI 132B: Machine Learning for Social Scientists
+  * POLSCI 191: Junior Seminar: Representation and Distribution (Data-Intensive)
+  * PSYCH 130: Clinical Psychology
+  * PSYCH 147: Methods in Cognitive Development
+  * UGBA 199: Supervised Independent Study and Research
 * Fall 2022
-  * STAT 133: 
-  * PSYCH 134: 
-  * COMPSCI 370: 
-  * POLSCI 192: 
-  * DATA 198: 
-  * UGIS 192B: 
-  * UGBA 199: 
+  * COMPSCI 370: Adaptive Instruction Methods in Computer Science
+  * DATA 198: Directed Group Studies for Advanced Undergraduates
+  * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
+  * PSYCH 134: Health Psychology
+  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
+  * UGBA 199: Supervised Independent Study and Research
+  * UGIS 192B: Supervised Research: Social Sciences
 * Summer 2022
   * MCELLBI W61: Brain, Mind, and Behavior
   * POLSCI 109B: The Politics of Public Policy
