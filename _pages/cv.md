@@ -138,8 +138,8 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Java
   * JavaScript
   * Python
-  * R
   * Qualtrics
+  * R
 * Research
   * Experimental Design
   * Survey Methods
