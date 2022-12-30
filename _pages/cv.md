@@ -113,11 +113,11 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
 
-* __Pi Sigma Alpha, The National Political Science Honor Society__
-  * 
+__Pi Sigma Alpha, The National Political Science Honor Society__
+* 
 
-* __Psi Chi__
-  * 
+__Psi Chi__
+* 
 
 Skills
 ======
