@@ -169,7 +169,7 @@ _Junior Year_
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
   * PSYCH 134: Health Psychology
-  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)<br />- Assignment: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))<br />- Assignment: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
+  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)<br />- Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))<br />- Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
   * UGBA 199: Supervised Independent Study and Research
   * UGIS 192B: Supervised Research: Social Sciences
 * Summer 2022
@@ -196,10 +196,10 @@ _Sophomore Year_
 
 _Freshman Year_
 * Spring 2021
-  * ECON 1: Introduction to Economics
+  * ECON 1: Introduction to Economics (Macro & Micro)
   * MATH 16A: Analytic Geometry and Calculus
   * NUSCTX 11: Introduction to Toxicology
-  * POLSCI 112C: History of Political Theory (19th and 20th Centuries)
+  * POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
   * UGBA 135: Personal Financial Management
 * Fall 2020
   * ANTHRO R5B: Reading and Composition in Anthropology
