@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Lab Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of California, Berkeley, Division of Data Science, Computing, and Society"
+date: 2022-01-01
+location: "Berkeley, California"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
