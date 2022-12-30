@@ -228,3 +228,5 @@ __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High Sc
   * ADJU 101: Introduction to the Administration of Justice
 * Fall 2018
   * SOCO 101: Principles of Sociology
+
+_[Back to Top](https://andrewchen04.github.io/cv/)_
