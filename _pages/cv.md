@@ -57,4 +57,6 @@ Teaching
   
 Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice Provost’s Student Advisory Council Member
+  * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
+  * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
