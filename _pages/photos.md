@@ -33,4 +33,4 @@ author_profile: true
 
 
 ## Summer Bridge Reunion (March 2022)
-<img width="800" src="https://user-images.githubusercontent.com/100865459/210117542-f555b76c-b17c-435f-8ef8-fa1b3b1115ff.png">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210117706-6ad42703-f9f5-4c84-95ca-422c8834a245.jpg">
