@@ -15,7 +15,7 @@ author_profile: true
 
 ![SACUE Sunset Photo (October 2022)]()
 
-![UPSA Board Photo _in 100 F Weather!_ (September 2022)]()
+![UPSA Board Photo _in 100°F Weather!_ (September 2022)]()
 
 ![BEARS - SAAS Project (April 2022)]()
 
