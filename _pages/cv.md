@@ -209,7 +209,8 @@ _Freshman Year_
 Other Coursework
 ======
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
-* PSYC 101: General Psychology
+* Spring 2022
+  * PSYC 101: General Psychology
 
 __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
 * Spring 2020
