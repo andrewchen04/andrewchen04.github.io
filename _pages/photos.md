@@ -14,7 +14,7 @@ Student-Submitted Appreciation Drawing (December 2022)
 BEARS - PCS Project (November 2022)
 
 SOMO Lab Pizza Party (November 2022)
-<img width="800" alt="SOMO Lab Pizza Party (November 2022)" src="https://user-images.githubusercontent.com/100865459/210116506-de5f9d75-84ca-416b-969b-54998517d4b3.jpeg")
+<img width="800" alt="SOMO Lab Pizza Party (November 2022)" src="https://user-images.githubusercontent.com/100865459/210116506-de5f9d75-84ca-416b-969b-54998517d4b3.jpeg">
 
 ASUC _Shady_ Office Photo (October 2022)
 
