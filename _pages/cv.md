@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 1, 2023_
+_WORK IN PROGRESS; Last Updated: January 1, 2023_
 
 Education
 ======
@@ -75,7 +75,7 @@ _Interim Legislative Department Director (Office of Senator Carlos C. Vázquez) 
 * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
 * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
 
-* __[UC Berkeley Undergraduate Political Science Association](https://upsaberkeley.wixsite.com/my-site)
+* __[UC Berkeley Undergraduate Political Science Association](https://upsaberkeley.wixsite.com/my-site)__
 
 _Social Chair, Representative to the Alliance for Civic Engagement (April 2022 - Present)_
 * Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
