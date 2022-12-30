@@ -26,6 +26,11 @@ Teaching Experience
 
 Research Experience
 ======
+  <ul>{% for post in site.research reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+* BLAH
 * __[SOMO Lab](https://www.somolab.org/) / [XLab](https://xlab.berkeley.edu/) Research Apprentice (Social Judgment Research with Co-Director [Juliana Schroeder](https://julianaschroeder.com/))__ (_June 2022 - Present_)
   * Works directly with Professor Schroeder and multiple graduate students on several social judgment research projects in the Experimental Social Science Laboratory (XLab) facilities
   * Performs tasks including, but not limited to, promoting the lab, recruiting participants, running in-person and virtual experiments, designing surveys and other study materials, piloting surveys, cleaning data, coding data, analyzing data, transcribing participant interviews, conducting literature reviews, proofreading papers to be published, and editing APA citations (using Qualtrics, SPSS, and Sona Systems)
