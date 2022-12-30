@@ -82,16 +82,16 @@ _Junior Year_
   * UGIS 192B: 
   * UGBA 199: 
 * Summer 2022
-  * POLSCI 109B: 
-  * MCELLBI W61: 
+  * MCELLBI W61: Brain, Mind, and Behavior
+  * POLSCI 109B: The Politics of Public Policy
 
 _Sophomore Year_
 * Spring 2022
-  * POLSCI 161: 
-  * PSYCH 101: 
-  * PBHLTH 142: 
-  * DATA 198: 
-  * UGIS 192B: 
+  * DATA 198: Directed Group Studies for Advanced Undergraduates
+  * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://ph142-ucb.github.io/sp22/)
+  * POLSCI 161: Public Opinion, Voting, and Participation
+  * PSYCH 101: Research and Data Analysis in Psychology
+  * UGIS 192B: Supervised Research: Social Sciences
 * Fall 2021
   * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Currently known as DATA C88C_)
   * COMPSCI 197: Field Study
