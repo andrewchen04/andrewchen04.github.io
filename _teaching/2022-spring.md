@@ -11,3 +11,5 @@ location: "Berkeley, California"
 __Responsibilities__:
 - Met with a shadow Teaching Assistant (TA) throughout the semester to practice and reflect on personal pedagogy skills and professional development
 - Assisted 45 students every week in lab with questions about discussion worksheets, Jupyter notebook assignments, projects, and other course materials in DATA 8: Foundations of Data Science, a 2000+ person course that teaches students of all majors and statistics/computer science backgrounds the core concepts of inference and computing while working hands-on with real data
+
+_Course materials are available [here](http://data8.org/fa22/)._
