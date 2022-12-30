@@ -25,7 +25,7 @@ _Navigate to_:
 
 [Education](#education)
 ======
-* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, <br />July 2020 - May 2024 (_Expected_)
+* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2020 - May 2024 (_Expected_)
   * Honors to Date
   * Pi Sigma Alpha
   * Psi Chi
