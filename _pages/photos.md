@@ -5,9 +5,9 @@ permalink: /photos/
 author_profile: true
 ---
 
-![Student-Submitted Appreciation Post]()
+![Student-Submitted Appreciation Post (December 2022)](https://drive.google.com/file/d/1lXkKe4qK4RTU2nhjufXZxr1SKLYHcZXP/view?usp=sharing)
 
-![Student-Submitted Drawing (December 2022)]()
+![Student-Submitted Drawing (December 2022)](https://drive.google.com/file/d/1rWIkVdBMBb701yr3onYa0FcZ525NLrEE/view?usp=sharing)
 
 ![BEARS - PCS Project (November 2022)]()
 
