@@ -12,7 +12,7 @@ UPSA Board Photo _in 100 F Weather!_ (September 2022)
 
 SACUE Sunset Photo (October 2022)
 
-ASUC _Shady_ Office Photo ()
+ASUC _Shady_ Office Photo (October 2022)
 
 SOMO Lab Pizza Party (November 2022)
 
