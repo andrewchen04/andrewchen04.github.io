@@ -213,10 +213,10 @@ _Freshman Year_
 
 Other Coursework
 ======
-__San Diego City College__ (_January 2022_)
+__[San Diego City College](https://www.sdcity.edu/)__ (_January 2022_)
 * PSYC 101: General Psychology
 
-__San Diego Miramar College__ (_August 2018 - June 2020_)
+__[San Diego Miramar College](https://sdmiramar.edu/)__ (_August 2018 - June 2020_)
 * ADJU 101: Introduction to the Administration of Justice
 * ADJU 102: Criminal Law I
 * POLI 101: Introduction to Political Science
