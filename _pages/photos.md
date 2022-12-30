@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Photos"
+permalink: /photos/
+author_profile: true
+---
+
 Freshman Year Dorm View (August 2020)
 
 SAAS Banquet (December 2021)
