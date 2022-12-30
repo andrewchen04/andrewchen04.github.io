@@ -11,16 +11,16 @@ redirect_from:
 
 _Last Updated: January 1, 2023_
 
-Navigate to:
-[Education](https://andrewchen04.github.io/cv/#education)
-[Teaching Experience](https://andrewchen04.github.io/cv/#teaching-experience)
-[Research Experience](https://andrewchen04.github.io/cv/#research-experience)
-[Work Experience](https://andrewchen04.github.io/cv/#work-experience)
-[Service](https://andrewchen04.github.io/cv/#service)
-[Leadership](https://andrewchen04.github.io/cv/#leadership)
-[Organizations](https://andrewchen04.github.io/cv/#organizations)
-[Skills](https://andrewchen04.github.io/cv/#skills)
-[Coursework at UC Berkeley](https://andrewchen04.github.io/cv/#coursework-at-uc-berkeley)
+_Navigate to_:
+[Education](https://andrewchen04.github.io/cv/#education), 
+[Teaching Experience](https://andrewchen04.github.io/cv/#teaching-experience), 
+[Research Experience](https://andrewchen04.github.io/cv/#research-experience), 
+[Work Experience](https://andrewchen04.github.io/cv/#work-experience), 
+[Service](https://andrewchen04.github.io/cv/#service), 
+[Leadership](https://andrewchen04.github.io/cv/#leadership), 
+[Organizations](https://andrewchen04.github.io/cv/#organizations), 
+[Skills](https://andrewchen04.github.io/cv/#skills), 
+[Coursework at UC Berkeley](https://andrewchen04.github.io/cv/#coursework-at-uc-berkeley), 
 [Other Coursework](https://andrewchen04.github.io/cv/#other-coursework)
 
 [Education](#education)
