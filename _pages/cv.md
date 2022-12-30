@@ -62,41 +62,36 @@ Organizations
 Skills
 ======
 * Programming Languages
-  * Python
-  * R
-  * Qualtrics
   * IBM SPSS Statistics
   * Java
   * JavaScript
+  * Python
+  * R
+  * Qualtrics
 * Programming Concepts/Tools
   * Git
   * Machine Learning
-  * Object-Oriented Programming
-* Leadership
+  * Object-Oriented Programming (OOP)
+* Interpersonal
+  * Diversity and Inclusion
+  * Event Planning
   * Management
+  * Organization
   * Public Speaking
   * Servant Leadership
   * Team Building
-  * Diversity and Inclusion
-  * Event Planning
-  * Organization
-* Teaching/Advising
-  * Peer Mentoring
+* University Teaching/Advising
   * Academic Coaching
+  * Peer Mentoring
 * Research
   * Experimental Design
-* Adobe Creative Cloud
-  * Adobe Acrobat
-  * Adobe InDesign
-* Google Drive
-* Microsoft Office
-  * Microsoft Word
-  * Microsoft PowerPoint
-  * Microsoft Excel
-  * Microsoft Outlook
-* Other Technologies
-  * Zoom
+  * Survey Methods
+* Technologies
+  * Adobe Creative Cloud
+  * Google Drive
+  * Microsoft Office
   * Slack
+  * Zoom
 
 Coursework at UC Berkeley
 ======
