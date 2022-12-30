@@ -133,7 +133,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Git
   * Machine Learning
   * Object-Oriented Programming (OOP)
-* Programming Languages
+* Programming/Statistical Languages
   * IBM SPSS Statistics
   * Java
   * JavaScript
