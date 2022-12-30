@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Andrew Chen"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
