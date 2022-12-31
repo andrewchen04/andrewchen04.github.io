@@ -25,13 +25,13 @@ Please enjoy this assortment of photos!
 ## SACUE Sunset Photo (October 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118247-0f53ba9e-c95e-46a2-8745-ad6aa55e13d2.jpg">
 
-## UPSA Board Photo _in 100°F Weather!_ (September 2022)
+## UPSA Board Photo _in 100°F Weather_ (September 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118022-692e5321-ad58-49e1-8134-60223b549bb5.jpeg">
 
 ## BEARS - SAAS Project (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
-## Cal Day, _Featuring Oski the Bear!_ (April 2022)
+## Cal Day, _featuring Oski the Bear_ (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118535-fe70fbb8-9ca0-4dad-bed6-f4fd5e2a2482.jpeg">
 
 ## Summer Bridge Reunion (March 2022)
