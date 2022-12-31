@@ -31,7 +31,7 @@ Please enjoy this assortment of photos.
 ## BEARS - SAAS Project (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
-## Cal Day (April 2022)
+## Cal Day _Featuring Oski the Bear!_ (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118535-fe70fbb8-9ca0-4dad-bed6-f4fd5e2a2482.jpeg">
 
 ## Summer Bridge Reunion (March 2022)
