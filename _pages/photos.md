@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-Please enjoy this assortment of photos.
+Please enjoy this assortment of photos!
 
 ## Student-Submitted Appreciation Post (December 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210116278-9864112e-8b67-4471-bdb3-4098019ad0cb.png">
@@ -20,7 +20,7 @@ Please enjoy this assortment of photos.
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118590-f3974db6-639d-40f4-806e-adcd0155798b.jpeg">
 
 ## ASUC _Shady_ Office Photo (October 2022)
-8)
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210119223-4a19121a-c334-4058-b4e1-ba322db1ddeb.png">
 
 ## SACUE Sunset Photo (October 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118247-0f53ba9e-c95e-46a2-8745-ad6aa55e13d2.jpg">
@@ -31,7 +31,7 @@ Please enjoy this assortment of photos.
 ## BEARS - SAAS Project (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
-## Cal Day _Featuring Oski the Bear!_ (April 2022)
+## Cal Day, _Featuring Oski the Bear!_ (April 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118535-fe70fbb8-9ca0-4dad-bed6-f4fd5e2a2482.jpeg">
 
 ## Summer Bridge Reunion (March 2022)
