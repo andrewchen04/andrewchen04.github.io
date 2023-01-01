@@ -2,7 +2,7 @@
 title: "SOMO Lab / XLab Research Apprentice (Social Judgment Research with Co-Director Juliana Schroeder) (June 2022 - Present)"
 collection: research
 type: "Research Assistant"
-permalink: /research/critcher
+permalink: /research/schroeder-ra
 venue: "University of California, Berkeley: Haas School of Business"
 location: "Berkeley, California"
 ---
