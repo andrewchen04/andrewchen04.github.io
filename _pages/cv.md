@@ -121,7 +121,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
 
 [Skills](#skills)
 ======
-* Interpersonal
+* __Interpersonal__
   * Diversity and Inclusion
   * Event Planning
   * Management
@@ -129,28 +129,28 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Public Speaking
   * Servant Leadership
   * Team Building
-* Programming Concepts/Tools
+* __Programming Concepts/Tools__
   * Git
   * Machine Learning
   * Object-Oriented Programming (OOP)
-* Programming/Statistical Languages
+* __Programming/Statistical Languages__
   * IBM SPSS Statistics
   * Java
   * JavaScript
   * Python
   * Qualtrics
   * R
-* Research
+* __Research__
   * Experimental Design
   * Survey Methods
-* Technologies
+* __Technologies__
   * Adobe Creative Cloud
   * Canva
   * Google Workspace
   * Microsoft Office
   * Slack
   * Zoom
-* University Advising/Teaching
+* __University Advising/Teaching__
   * Academic Coaching
   * Peer Mentoring
 
