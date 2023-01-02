@@ -60,9 +60,9 @@ _Navigate to_:
   
 [Service](#service)
 ======
-__[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/committees/sacue)__
+__[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
-* __Vice Provost’s Student Advisory Council Member__ (_August 2022 - Present_)
+* __[Vice Provost’s Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
@@ -105,16 +105,16 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
-* __Internal Affairs Committee Member, House Prefect__ (_May 2021 - Present_)
+* __[Internal Affairs Committee](https://saas.berkeley.edu/ivp) Member, House Prefect__ (_May 2021 - Present_)
   * Contributes to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 150 members to interact with one another outside of their designated committees
   * Performs internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, organizing study sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
 
-* __Research and Publication Committee Member__ (_January 2022 - May 2022_)
+* __[Research and Publication Committee](https://saas.berkeley.edu/research) Member__ (_January 2022 - May 2022_)
   * Participated in weekly workshops covering advanced techniques in data cleaning, data analysis, data visualization, version control, quantitative and qualitative research, and presentation skills (with various libraries and packages in Python and R)
   * Constructed a logistic regression model that predicted whether Black Lives Matter (BLM) protests would or would not occur in a United States locality based on selected demographic features with 77% accuracy, 77% precision, 80% recall, and an AUC of 0.83
   * Presented results at the Spring 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
 
-* __Career Exploration Committee Member__ (_January 2021 - May 2021_)
+* __[Career Exploration Committee](https://saas.berkeley.edu/careerex) Member__ (_January 2021 - May 2021_)
   * Participated in weekly lectures exploring foundational concepts and tools in statistics, data science, machine learning, and Python programming (with pandas, NumPy, scikit-learn, seaborn, and matplotlib)
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
