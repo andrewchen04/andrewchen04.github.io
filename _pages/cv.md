@@ -70,13 +70,13 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/comm
 ======
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
-* __Senatorial Tasks Administrator (Office of Senator Carlos C. Vázquez)__ (_July 2022 - Present_)
+* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
   * Administrative Team Officer, whose main objectives are to ensure the proper functioning of the 25-member office, assist other executives and teams with projects, and specialize in specific skills
   * Hosts weekly office hours to gather feedback from campus community members on how we can better serve them and their needs
   * Executes senatorial duties including, but not limited to, writing weekly and special Senate reports and requesting room reservations and necessary accommodations
   * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
 
-* __Interim Legislative Department Director (Office of Senator Carlos C. Vázquez)__ (_July 2022 - September 2022_)
+* __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
   * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
   * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
