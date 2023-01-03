@@ -62,7 +62,7 @@ _Navigate to_:
 ======
 __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
-* __Vice Provost’s [Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
+* __[Vice Provost’s Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
   * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
 
