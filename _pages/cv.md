@@ -121,7 +121,11 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
 
 [Skills](#skills)
 ======
-* __Interpersonal__
+*  __Education__
+  * Academic Coaching
+  * Peer Mentoring
+  * University Advising/Teaching
+*  __Interpersonal__
   * Diversity and Inclusion
   * Event Planning
   * Management
@@ -150,9 +154,6 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Microsoft Office
   * Slack
   * Zoom
-* __University Advising/Teaching__
-  * Academic Coaching
-  * Peer Mentoring
 
 [Coursework at UC Berkeley](#coursework-at-uc-berkeley)
 ======
