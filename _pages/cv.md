@@ -125,7 +125,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Academic Coaching
   * Peer Mentoring
   * University Advising/Teaching
-*  __Interpersonal__
+* __Interpersonal__
   * Diversity and Inclusion
   * Event Planning
   * Management
