@@ -1,5 +1,5 @@
 ---
-title: "Lab Assistant, Data 8: Foundations of Data Science (Spring 2022)"
+title: "Lab Assistant, Data 8: Foundations of Data Science (_Spring 2022_)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-spring
