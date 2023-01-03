@@ -145,6 +145,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Qualtrics
   * R
 * __Research__
+  * CITI Human Research: Group 2 Social and Behavioral Research Investigators [Certification](https://www.citiprogram.org/verify/?we02ae0bb-2f5f-458d-9085-b2a29444a740-47627968), Experimental Design, Survey Methods
   * Experimental Design
   * Survey Methods
 * __Technologies__
