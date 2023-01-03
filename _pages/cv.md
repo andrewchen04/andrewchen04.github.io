@@ -121,7 +121,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
 
 [Skills](#skills)
 ======
-*  __Education__
+* __Education__
   * Academic Coaching
   * Peer Mentoring
   * University Advising/Teaching
