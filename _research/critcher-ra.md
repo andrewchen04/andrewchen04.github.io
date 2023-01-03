@@ -1,5 +1,5 @@
 ---
-title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (January 2022 - Present)"
+title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (_January 2022 - Present_)"
 collection: research
 type: "Research Assistant"
 permalink: /research/critcher-ra
