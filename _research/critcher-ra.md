@@ -13,4 +13,4 @@ __Responsibilities__:
 - Applies the scientific method to answer complex questions in consumer behavior and social psychology
 - Generates ideas for research studies, participates in meetings with Professor Critcher and other apprentices, coordinates and conducts research experiments, and codes and analyzes quantitative and qualitative data (using Qualtrics, Microsoft Excel, and Sona Systems)
 
-Lab research is available [here](https://www.somolab.org/overview).
+_Lab research is available [here](https://www.somolab.org/overview)._
