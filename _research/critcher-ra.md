@@ -12,3 +12,5 @@ __Responsibilities__:
 - Specifically assists Visiting Ph.D. Student Researcher [André Vaz](https://www.researchgate.net/profile/Andre-Vaz-9) with researching [cumulative redundancy bias](https://www.researchgate.net/publication/364098141_A_Watched_Pot_Seems_Slow_to_Boil_Why_Frequent_Monitoring_Decreases_Perception_of_Progress) and the better-than-average-effect (BTAE)
 - Applies the scientific method to answer complex questions in consumer behavior and social psychology
 - Generates ideas for research studies, participates in meetings with Professor Critcher and other apprentices, coordinates and conducts research experiments, and codes and analyzes quantitative and qualitative data (using Qualtrics, Microsoft Excel, and Sona Systems)
+
+Lab research is available [here](https://www.somolab.org/overview).
