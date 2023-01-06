@@ -10,7 +10,7 @@ Please enjoy this assortment of photos!
 ## Student-Submitted Appreciation Email (January 2023)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210942032-64a00440-fce6-4dba-80f3-de5f387de470.png">
 
-_This message formed the basis for my [Campus Wide Staff Appreciation Award](http://hr.berkeley.edu/performance/operating-principles/appreciate), issued by [UC Berkeley People & Culture](https://hr.berkeley.edu/about) in January 2023._
+_Such messages formed the basis for my [Campus Wide Staff Appreciation Award](http://hr.berkeley.edu/performance/operating-principles/appreciate), issued by [UC Berkeley People & Culture](https://hr.berkeley.edu/about) in January 2023._
 * Individual Recipient: Andrew Chen
 * Operating Principle: Going Above and Beyond What Is Normally Done
 
