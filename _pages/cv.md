@@ -25,7 +25,7 @@ _Navigate to_:
 
 [Education](#education)
 ======
-* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2020 - May 2024 (_Expected_)
+* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, May 2024 (_Expected_)
   * Honors to Date
   * Pi Sigma Alpha (_The National Political Science Honor Society, Iota Chapter_)
   * Psi Chi (_The International Honor Society in Psychology, UC Berkeley Chapter_)
@@ -126,12 +126,10 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Peer Mentoring
   * University Advising/Teaching
 * __Interpersonal__
-  * Diversity and Inclusion
   * Event Planning
   * Management
   * Organization
   * Public Speaking
-  * Servant Leadership
   * Team Building
 * __Programming Concepts/Tools__
   * Git
