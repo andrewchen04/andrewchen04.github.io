@@ -25,7 +25,7 @@ _Navigate to_:
 
 [Education](#education)
 ======
-* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, May 2024 (_Expected_)
+* __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, May 2024
   * Honors to Date
   * Pi Sigma Alpha (_The National Political Science Honor Society, Iota Chapter_)
   * Psi Chi (_The International Honor Society in Psychology, UC Berkeley Chapter_)
@@ -71,7 +71,7 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Administrative Team Officer, whose main objectives are to ensure the proper functioning of the 25-member office, assist other executives and teams with projects, and specialize in specific skills
+  * Ensures the proper functioning of the 25-member office, assists other executives and teams with projects, and specializes in specific skills
   * Hosts weekly office hours to gather feedback from campus community members on how we can better serve them and their needs
   * Executes senatorial duties including, but not limited to, writing weekly and special Senate reports and requesting room reservations and necessary accommodations
   * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
@@ -84,7 +84,7 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
 * __Social Chair, Representative to the Alliance for Civic Engagement (ACE)__ (_April 2022 - Present_)
-  * Executive board officer who coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
+  * Coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
   * Serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
   * Hosted the largest Election Night event on campus since 2016, sponsored by the [ASUC Vote Coalition](https://asuc.org/vote/) in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
   * Improved overall membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
