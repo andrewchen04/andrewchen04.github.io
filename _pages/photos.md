@@ -20,7 +20,7 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 ## Student-Submitted Appreciation Drawing (_December 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210116271-8cf7838f-9e2e-4958-93ce-46d494ba9889.png">
 
-## BEARS - PCS Project (_November 2022_)
+## BEARS – PCS Project (_November 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210119538-742e8097-4924-43c9-8344-dbeb55dc4c4c.jpeg">
 
 ## SOMO Lab Pizza Party (_November 2022_)
@@ -35,7 +35,7 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 ## UPSA Board Photo _in 100°F Weather_ (_September 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118022-692e5321-ad58-49e1-8134-60223b549bb5.jpeg">
 
-## BEARS - SAAS Project (_April 2022_)
+## BEARS – SAAS Project (_April 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
 ## Cal Day, _Featuring Oski the Bear_ (_April 2022_)
