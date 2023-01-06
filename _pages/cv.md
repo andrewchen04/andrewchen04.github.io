@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 3, 2023_
+_Last Updated: January 5, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
