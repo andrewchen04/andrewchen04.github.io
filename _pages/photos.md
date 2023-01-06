@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Photos"
@@ -6,6 +7,13 @@ author_profile: true
 ---
 
 Please enjoy this assortment of photos!
+
+## Student-Submitted Email (January 2023)
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210942032-64a00440-fce6-4dba-80f3-de5f387de470.png">
+_This message formed the basis for my Campus Wide Staff Appreciation Award (January 2023) issued by UC Berkeley People & Culture._
+* Individual Recipient: Andrew Chen
+* Operating Principle: Going Above and Beyond What Is Normally Done
+* Nomination: “Thank you for being a wonderful tutor this semester! Your energy during tutoring sessions, as well as your immense efforts during the strike have certainly helped out numerous students. I hope we cross paths again soon, thanks for making Data 8 the best!”
 
 ## Student-Submitted Appreciation Post (December 2022)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210116278-9864112e-8b67-4471-bdb3-4098019ad0cb.png">
