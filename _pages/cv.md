@@ -51,8 +51,8 @@ _Navigate to_:
   * Performed administrative tasks including, but not limited to, maintaining program usage data, managing the online appointment system and program LISTSERV, and providing support to program professional staff
 
 * __[UC Berkeley Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge)__ (_January 2021 - June 2022_)
-  * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring/summer
-  * Hosted and participated in dynamic and inclusive in-person and virtual outreach events, information sessions, speaker panels, and student workshops, ranging from 25 to 1,000 students in attendance with their support networks
+  * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
+  * Hosted dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 students in attendance
   * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
   * Collaborated with a team of 49 peer and professional staff in weekly group cohesion and awareness workshops
   * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
@@ -64,30 +64,30 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
 * __[Vice Provost’s Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
-  * Meets throughout the academic year with campus decision-makers to provide critical feedback on ongoing/planned projects and identify solutions to address issues that affect the academic life and student experience of all 32,000+ undergraduates
+  * Meets monthly with campus decision-makers to provide critical feedback on ongoing/planned projects, such as reimagining commencement, adapting grading policies, and increasing the reach of student organizations in a post-pandemic environment
+  * Assists the Student Information Systems (SIS) User Experience (UX) Team with redesigning CalCentral (the platform that students use to view their enrollments, grades, and finances) to be more user-friendly and accessible to screen readers
 
 [Leadership](#leadership)
 ======
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Ensures the proper functioning of the 25-member office, assists other executives and teams with projects, and specializes in specific skills
-  * Hosts weekly office hours to gather feedback from campus community members on how we can better serve them and their needs
-  * Executes senatorial duties including, but not limited to, writing weekly and special Senate reports and requesting room reservations and necessary accommodations
-  * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
+  * Ensures the proper functioning of the 25-member office and assists other executives and teams with efforts to achieve the office’s missions of advocating for intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Hosts weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
+  * Publishes weekly and special Senate reports and presents office initiatives and progress to the Senate every week
 
 * __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
   * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
   * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
+  * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
 
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
 * __Social Chair, Representative to the Alliance for Civic Engagement (ACE)__ (_April 2022 - Present_)
-  * Coordinates all organization socials and professional events, with responsibilities that include planning, scheduling, and managing events and obtaining necessary supplies
-  * Serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
-  * Hosted the largest Election Night event on campus since 2016, sponsored by the [ASUC Vote Coalition](https://asuc.org/vote/) in November 2022; provided a safe, non-partisan space for students and community members to gather to view the election results; promoted discourse and civic engagement among students of all backgrounds
-  * Improved overall membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
+  * Coordinates all organization socials and professional events and serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
+  * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
+  * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
 
 [Organizations](#organizations)
 ======
