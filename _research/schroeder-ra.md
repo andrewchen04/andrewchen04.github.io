@@ -8,8 +8,9 @@ location: "Berkeley, California"
 ---
 
 __Responsibilities__:
-- Works directly with Professor [Schroeder](https://julianaschroeder.com/) and multiple graduate students on several social judgment research projects in the Social and Moral Judgment ([SOMO](https://www.somolab.org/)) Lab, specifically in the Experimental Social Science Laboratory ([XLab](https://xlab.berkeley.edu/)) facilities
-- Performs tasks including, but not limited to, promoting the lab, recruiting participants, running in-person and virtual experiments, designing surveys and other study materials, piloting surveys, cleaning data, coding data, analyzing data, transcribing participant interviews, conducting literature reviews, proofreading papers to be published, and editing APA citations (using Qualtrics, SPSS, and Sona Systems)
-- Shadows the current SOMO Lab Manager in preparation to assume the role in May 2023
+- Conducts experiments over Zoom on communication styles and misarticulation in the Experimental Social Science Laboratory ([XLab](https://xlab.berkeley.edu/)) facilities, under the supervision of Co-Director [Juliana Schroeder](https://julianaschroeder.com/) and Ph.D. Students Aastha Mittal (Columbia University) and Rafael Batista (University of Chicago) on the social judgment side of the Social and Moral Judgment ([SOMO](https://www.somolab.org/)) Lab
+- Applies the scientific method to answer complex questions in consumer behavior and social psychology
+- Participates in weekly meetings with lab members, offering feedback on experiment designs and assisting in the analysis of quantitative and qualitative data (using Qualtrics, IBM SPSS Statistics, Microsoft Excel, and Sona Systems)
+- Shadows the current Lab Manager in preparation to assume the role in May 2023
 
-_Lab research is available [here](https://www.somolab.org/overview)._
+_Lab research is viewable [here](https://www.somolab.org/overview)._
