@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 8, 2023_
+_Last Updated: January 10, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -72,7 +72,7 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Ensures the proper functioning of the 25-member office and assists other executives and teams with efforts to achieve the office’s missions of advocating for intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Ensures the proper functioning of the 25-member office and assists other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
   * Hosts weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
   * Publishes weekly and special Senate reports and presents office initiatives and progress to the Senate every week
 
@@ -88,7 +88,7 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Coordinates all organization socials and professional events and serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
   * Meets monthly with various organizations to organize projects and discuss progress towards advancing civic engagement and discourse among campus community members
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
-  * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and expanding the number and types of socials and professional events
+  * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and adapting the number and types of socials and professional events to fit members’ interests
 
 [Organizations](#organizations)
 ======
