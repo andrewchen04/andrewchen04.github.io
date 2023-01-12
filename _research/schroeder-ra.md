@@ -9,7 +9,7 @@ location: "Berkeley, California"
 
 __Responsibilities__:
 - Conduct experiments over Zoom on communication styles and [misarticulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164007) in the Experimental Social Science Laboratory ([XLab](https://xlab.berkeley.edu/)) facilities, under the supervision of Co-Director [Juliana Schroeder](https://julianaschroeder.com/) and Ph.D. Students [Aastha Mittal](https://academics.gsb.columbia.edu/management-division/people/aastha-mittal) (Columbia Business School) and [Rafael Batista](https://rafaelmbatista.com/) (University of Chicago Booth School of Business) on the social judgment side of the Social and Moral Judgment ([SOMO](https://www.somolab.org/)) Lab
-- Appliy the scientific method to answer complex questions in consumer behavior and social psychology
+- Apply the scientific method to answer complex questions in consumer behavior and social psychology
 - Participate in weekly meetings with lab members, offering feedback on experiment designs and assisting in the analysis of quantitative and qualitative data (using Qualtrics, IBM SPSS Statistics, Microsoft Excel, and Sona Systems)
 - Shadow the current Lab Manager in preparation to assume the role in May 2023
 
