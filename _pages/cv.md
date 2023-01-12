@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 10, 2023_
+_Last Updated: January 12, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -64,17 +64,17 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
 * __[Vice Provost’s Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
   * Nominated by peer and professional staff members at UC Berkeley’s Student Learning Center (SLC) to serve on the Student Advisory Council on Undergraduate Education (SACUE), convened by Vice Provost for Undergraduate Education Oliver M. O’Reilly
-  * Meets monthly with campus decision-makers to provide critical feedback on ongoing/planned projects, such as reimagining commencement, adapting grading policies, and increasing the reach of student organizations in a post-pandemic environment
-  * Assists the Student Information Systems (SIS) User Experience (UX) Team with redesigning CalCentral (the platform that students use to view their enrollments, grades, and finances) to be more user-friendly and accessible to screen readers
+  * Meet monthly with campus decision-makers to provide critical feedback on ongoing/planned projects, such as reimagining commencement, adapting grading policies, and increasing the reach of student organizations in a post-pandemic environment
+  * Assist the Student Information Systems (SIS) User Experience (UX) Team with redesigning CalCentral (the platform that students use to view their enrollments, grades, and finances) to be more user-friendly and accessible to screen readers
 
 [Leadership](#leadership)
 ======
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Ensures the proper functioning of the 25-member office and assists other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
-  * Hosts weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
-  * Publishes weekly and special Senate reports and presents office initiatives and progress to the Senate every week
+  * Ensure the proper functioning of the 25-member office and assist other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Host weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
+  * Publish weekly and special Senate reports and present office initiatives and progress to the Senate every week
 
 * __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
@@ -85,7 +85,7 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
 * __Social Chair, Representative to the Alliance for Civic Engagement (ACE)__ (_April 2022 - Present_)
-  * Coordinates all organization socials and professional events and serves as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
+  * Coordinate all organization socials and professional events and serve as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
   * Meets monthly with various organizations to organize projects and discuss progress towards advancing civic engagement and discourse among campus community members
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and adapting the number and types of socials and professional events to fit members’ interests
@@ -107,8 +107,8 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
 * __[Internal Affairs](https://saas.berkeley.edu/ivp) Committee Member, House Prefect__ (_May 2021 - Present_)
-  * Contributes to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 150 members to interact with one another outside of their designated committees
-  * Performs internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, organizing study sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
+  * Contribute to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 150 members to interact with one another outside of their designated committees
+  * Perform internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, organizing study sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
 
 * __[Research and Publication](https://saas.berkeley.edu/research) Committee Member__ (_January 2022 - May 2022_)
   * Participated in weekly workshops covering advanced techniques in data cleaning, data analysis, data visualization, version control, quantitative and qualitative research, and presentation skills (with various libraries and packages in Python and R)
