@@ -32,7 +32,7 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 ## SACUE Sunset Photo (_October 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118247-0f53ba9e-c95e-46a2-8745-ad6aa55e13d2.jpg">
 
-## UPSA Board Photo _in 100°F Weather_ (_September 2022_)
+## UPSA Board Photo _in 102°F Weather_ (_September 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118022-692e5321-ad58-49e1-8134-60223b549bb5.jpeg">
 
 ## BEARS – SAAS Project (_April 2022_)
