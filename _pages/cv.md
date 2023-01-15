@@ -72,7 +72,7 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
 * __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Ensure the proper functioning of the 25-member office and assist other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Ensure the proper functioning of the 30-member office and assist other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
   * Host weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
   * Publish weekly and special Senate reports and present office initiatives and progress to the Senate every week
 
