@@ -232,4 +232,4 @@ __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High Sc
 * Fall 2018
   * SOCO 101: Principles of Sociology
 
-_[Back to Top](https://andrewchen04.github.io/cv/)_
+_[Return to Top](https://andrewchen04.github.io/cv/)_
