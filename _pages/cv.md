@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 12, 2023_
+_Last Updated: January 15, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -143,7 +143,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Python
   * Qualtrics
   * R
-* __Research__
+* __Qualitative and Quantitative Research__
   * [CITI Human Research: Group 2 Social and Behavioral Research Investigators Certification](https://www.citiprogram.org/verify/?we02ae0bb-2f5f-458d-9085-b2a29444a740-47627968)
   * Experimental Design
   * Sona Systems
