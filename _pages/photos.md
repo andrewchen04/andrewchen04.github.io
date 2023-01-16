@@ -7,12 +7,16 @@ author_profile: true
 
 Please enjoy this assortment of photos!
 
+[Spring 2023](#spring-2023)
+
 ## Student-Submitted Appreciation Email (_January 2023_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210942032-64a00440-fce6-4dba-80f3-de5f387de470.png">
 
 _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](http://hr.berkeley.edu/performance/operating-principles/appreciate), issued by [UC Berkeley People & Culture](https://hr.berkeley.edu/about) in January 2023._
 * Individual Recipient: Andrew Chen
 * Operating Principle: Going Above and Beyond What Is Normally Done
+
+[Fall 2022](#fall-2022)
 
 ## Student-Submitted Appreciation Post (_December 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210116278-9864112e-8b67-4471-bdb3-4098019ad0cb.png">
@@ -35,6 +39,8 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 ## UPSA Board Photo _in 102°F Weather_ (_September 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118022-692e5321-ad58-49e1-8134-60223b549bb5.jpeg">
 
+[Spring 2022](#spring-2022)
+
 ## BEARS – SAAS Project (_April 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210117538-d6a89a01-5470-44b0-b7b5-3886b3b7076d.jpeg">
 
@@ -43,3 +49,5 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 
 ## Summer Bridge Reunion (_March 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118681-aceb5816-d9ff-4a37-aa27-7a11ac8540f8.jpeg">
+
+[Return to Top](https://andrewchen04.github.io/photos/)
