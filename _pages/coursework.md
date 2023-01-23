@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-__[UC Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
+__[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
 _Junior Year_
 * Spring 2023
