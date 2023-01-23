@@ -5,9 +5,11 @@ permalink: /coursework/
 author_profile: true
 ---
 
+Below is a list of all the courses I have taken so far.
+
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
-_Junior Year_
+## Junior Year
 * Spring 2023
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 132B: Machine Learning for Social Scientists
@@ -27,7 +29,7 @@ _Junior Year_
   * MCELLBI W61: Brain, Mind, and Behavior
   * POLSCI 109B: The Politics of Public Policy
 
-_Sophomore Year_
+## Sophomore Year
 * Spring 2022
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://ph142-ucb.github.io/sp22/)
@@ -45,7 +47,7 @@ _Sophomore Year_
   * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
   * POLSCI W164A: Political Psychology and Involvement
 
-_Freshman Year_
+## Freshman Year
 * Spring 2021
   * ECON 1: Introduction to Economics (Macro & Micro)
   * MATH 16A: Analytic Geometry and Calculus
