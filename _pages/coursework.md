@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-Coursework at UC Berkeley
+__[UC Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
 _Junior Year_
 * Spring 2023
@@ -63,13 +63,13 @@ _Freshman Year_
   * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
   * THEATER 5: Public Speaking and Presentation Skills
 
-Other Coursework
-======
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
+======
 * Spring 2022
   * PSYC 101: General Psychology
 
 __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
+======
 * Spring 2020
   * POLI 101: Introduction to Political Science
   * SOCO 110: Contemporary Social Problems
