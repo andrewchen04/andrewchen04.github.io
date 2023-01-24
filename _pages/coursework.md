@@ -11,7 +11,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 ======
 ## Junior Year
 * Spring 2023
-  * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 132B: Machine Learning for Social Scientists
   * POLSCI 191: Junior Seminar: Representation and Distribution (Data-Intensive)
   * PSYCH 130: Clinical Psychology
