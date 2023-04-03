@@ -42,7 +42,7 @@ _Navigate to_:
 
 [Work Experience](#work-experience)
 ======
-* __[UC Berkeley Summer Bridge Program Peer Advisor](https://slc.berkeley.edu/summer-bridge)__ (_January 2021 - Present_)
+* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Peer Advisor__ (_January 2021 - Present_)
   * Introduce historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
   * Host dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 students in attendance
   * Individually contact 300+ students via telephone, email, and Zoom and connect them with available learning opportunities to transition into their first year of college with ample support
@@ -50,7 +50,7 @@ _Navigate to_:
   * Work cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
   * Fulfill the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
 
-* __[UC Berkeley Student Learning Center Writing Program Assistant](https://slc.berkeley.edu/writing)__ (_June 2022 - August 2022_)
+* __[UC Berkeley Student Learning Center Writing Program](https://slc.berkeley.edu/writing) Assistant__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
