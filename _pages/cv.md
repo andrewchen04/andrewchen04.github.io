@@ -69,7 +69,11 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 ======
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
-* __Co-President__ (_April 2023 - Present_)
+* __President__ (_April 2023 - Present_)
+  * Spearhead the process of scheduling events and mapping out the academic year
+  * Prepare agendas/presentations and lead weekly board meetings and general meetings
+  * Delegate responsibilities to other board members and ensure that they are being carried out
+  * Build and maintain relationships with department professors, advisors, and graduate students, in addition to other campus organizations
 
 * __Events/Social Chair, Representative to the Alliance for Civic Engagement (ACE)__ (_April 2022 - April 2023_)
   * Coordinated all organization socials and professional events and served as the primary liaison for UPSA and the Charles and Louise Travers Department of Political Science in meetings and events with other social science organizations
@@ -77,7 +81,13 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the [ASUC Vote Coalition](https://asuc.org/vote/) in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and adapting the number and types of socials and professional events to fit members’ interests
 
-__[Psi Chi, the International Honor Society in Psychology (University of California, Berkeley Chapter)](https://psichi.berkeley.edu/)__
+__Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Chapter)__
+
+* __President__ (_May 2023 - Present_)
+  * Spearhead the reincarnation of UC Berkeley’s chapter of Pi Sigma Alpha
+  * Facilitate the expansion of the chapter’s “Political Science Opportunity Scholarship“ for low-income political science students, the only need-based scholarship housed under UC Berkeley’s Charles and Louise Travers Department of Political Science
+
+__[Psi Chi, The International Honor Society in Psychology (University of California, Berkeley Chapter)](https://psichi.berkeley.edu/)__
 
 * __Executive Administrator__ (_May 2023 - Present_)
   * Handle day-to-day administrative operations
