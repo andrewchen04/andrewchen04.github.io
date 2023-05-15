@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: April 2, 2023_
+_Last Updated: May 15, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -79,19 +79,25 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
 
 __[Psi Chi, the International Honor Society in Psychology (University of California, Berkeley Chapter)](https://psichi.berkeley.edu/)__
 
-* __Treasurer__ (_January 2023 - Present_)
-  * Maintain an organized and up-to-date record of all organization financial transactions
-  * Plan and keep track of the organization’s budget for the year and for each event
-  * Represent Psi Chi as a UC Berkeley ASUC/GA Agent and Financial Requestor
-  * Generate ASUC fiscal reports as needed
-  * Handle all membership dues
+* __Executive Administrator__ (_May 2023 - Present_)
+  * Handle day-to-day administrative operations
+  * Respond to organization emails promptly and professionally
+  * Update the organization’s website as needed
+  * Delegate tasks to and assist other members of the executive board
+
+* __Treasurer__ (_January 2023 - May 2023_)
+  * Maintained an organized and up-to-date record of all organization financial transactions
+  * Planned and kept track of the organization’s budget for the year and for each event
+  * Represented Psi Chi as a UC Berkeley ASUC/GA Agent and Financial Requestor
+  * Generated ASUC fiscal reports as needed
+  * Processed all membership dues
 
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
-* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - Present_)
-  * Ensure the proper functioning of the 30-member office and assist other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
-  * Host weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
-  * Publish weekly and special Senate reports and present office initiatives and progress to the Senate every week
+* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
+  * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Hosted weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
+  * Published weekly and special Senate reports and presented office initiatives and progress to the Senate every week
 
 * __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
@@ -103,7 +109,13 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 ======
 __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
-* __Education Team Member__ (_January 2023 - Present_)
+* __Finance Chair__ (_May 2023 - Present_)
+  * Monitor the organization’s budget and spending
+  * Secure new funding initiatives to ensure adequate income and maintain long-term viability
+  * Oversee the transition to a new long-term bank of budgeting solution
+
+* __Education Team Member__ (_January 2023 - May 2023_)
+  * Worked alongside a team teaching members to run Python notebooks locally, create quality data visualizations, and learn the principles of good data science through a hands-on learning experience that will prepare them for future data analysis projects
 
 * __Lead Education Project Research Analyst__ (_August 2022 - December 2022_)
   * Analyzed risk factors affecting public schools and charter schools in California with public government datasets (using Python, GeoPandas, pandas, seaborn, SQL, and Tableau)
