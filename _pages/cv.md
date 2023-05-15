@@ -102,21 +102,6 @@ __[Psi Chi, The International Honor Society in Psychology (University of Califor
   * Generated ASUC fiscal reports as needed
   * Processed all membership dues
 
-__[Associated Students of the University of California (ASUC)](https://asuc.org/)__
-
-* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
-  * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
-  * Hosted weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
-  * Published weekly and special Senate reports and presented office initiatives and progress to the Senate every week
-
-* __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
-  * Supported the Administrative Team in an additional role during the Senate’s transition period
-  * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
-  * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
-  * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
-
-[Organizations](#organizations)
-======
 __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 * __Finance Chair__ (_May 2023 - Present_)
@@ -134,6 +119,21 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
   * Presented results at the Fall 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
   * Served as the primary liaison for PCS in coordinating logistics for BEARS
 
+__[Associated Students of the University of California (ASUC)](https://asuc.org/)__
+
+* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
+  * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley
+  * Hosted weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
+  * Published weekly and special Senate reports and presented office initiatives and progress to the Senate every week
+
+* __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
+  * Supported the Administrative Team in an additional role during the Senate’s transition period
+  * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
+  * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
+  * Elected as students’ top-ranked Senate choice, our office’s core values concern intersectionality, disability justice, and underrepresented students
+
+[Organizations](#organizations)
+======
 __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
 * __[Internal Affairs](https://saas.berkeley.edu/ivp) Committee Member, House Prefect__ (_May 2021 - Present_)
