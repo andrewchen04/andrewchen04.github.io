@@ -9,6 +9,11 @@ Below is a list of all the courses I have taken so far.
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
+## Senior Year
+* Summer 2023
+  * DIGHUM 100: Theory and Method in the Digital Humanities
+  * PSYCH N180: Industrial-Organizational Psychology
+
 ## Junior Year
 * Spring 2023
   * POLSCI 132B: Machine Learning for Social Scientists
