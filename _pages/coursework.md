@@ -61,7 +61,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * Fall 2020
   * ANTHRO R5B: Reading and Composition in Anthropology
   * [EPS 7: Introduction to Climate Change](https://romps.berkeley.edu/teaching/courses-2020-fall-eps7.html)
-  * [HISTORY 98BC: Berkeley Connect in History](https://www.berkeleyconnect.berkeley.edu/history/)
+  * [HISTORY 98BC: Berkeley Connect in History](https://berkeleyconnect.berkeley.edu/finding-connection/participating-departments/history)
   * LS 2: Democracy in Crisis?
   * POLSCI 5: Introduction to International Relations
 * Summer 2020
