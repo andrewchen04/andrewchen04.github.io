@@ -9,6 +9,7 @@ location: "Berkeley, California"
 
 __Responsibilities__:
 - Conduct experiments in person and over Zoom on communication styles and [misarticulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4164007) in the Experimental Social Science Laboratory ([XLab](https://xlab.berkeley.edu/)) facilities, under the supervision of Co-Director [Juliana Schroeder](https://julianaschroeder.com/) and Ph.D. Students [Aastha Mittal](https://academics.gsb.columbia.edu/management-division/people/aastha-mittal) (Columbia Business School), Sophia Li (Berkeley Haas), and [Rafael Batista](https://rafaelmbatista.com/) (University of Chicago Booth School of Business) on the social judgment side of the Social and Moral Judgment ([SOMO](https://www.somolab.org/)) Lab
+- Secure departmental grant funding, gain institutional review board approval, and administer a conjoint survey experiment on Prolific as part of a senior honors thesis examining citizens’ perceptions of political candidates with disabilities
 - Participate in weekly meetings with lab members, offering feedback on experiment designs and assisting in the analysis of quantitative and qualitative data (using Qualtrics, IBM SPSS Statistics, Microsoft Excel, and Sona Systems)
 - Apply the scientific method to answer complex questions in social psychology
 
