@@ -9,9 +9,8 @@ location: "Berkeley, California"
 ---
 
 __Responsibilities__:
-- Lead BUDS programming, including workshops and seminars with external speakers 
-- Lead program planning hours with associate group facilitators and CalTeach mentors
-- Meet regularly with faculty program directors and coordinate with BUDS interns’ school advisor
-- Facilitate intern engagement during larger group sessions
+- Lead a team of nine student interns through a rigorous, hands-on enrichment program to develop their understanding of the computational approaches, applications, and possibilities of data science on a personal and societal level
+- Mentor interns through individual projects implementing the data science life cycle, from gathering publicly available data to cleaning and critically analyzing the data in Jupyter Notebooks with Python to presenting their research findings
+- Organize program planning hours with the faculty directors and associate group facilitators to redesign the program curriculum for a fully in-person experience and incorporate workshops and seminars with external speakers
 
 _A press release from last year's program (Summer 2022) is available [here](https://data.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year)._
