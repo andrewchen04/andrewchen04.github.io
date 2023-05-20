@@ -10,7 +10,7 @@ Please enjoy this assortment of photos!
 [Spring 2023](#spring-2023)
 ======
 ## SOMO Lab Pizza Party (_April 2023_)
-<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/6fdba757-557b-49b5-9f24-a884772196f9)">
+<img width="800" src="https://user-images.githubusercontent.com/100865459/239700445-6fdba757-557b-49b5-9f24-a884772196f9.jpeg">
 
 ## Student-Submitted Appreciation Email (_January 2023_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210942032-64a00440-fce6-4dba-80f3-de5f387de470.png">
