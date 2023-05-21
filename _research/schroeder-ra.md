@@ -1,5 +1,5 @@
 ---
-title: "SOMO Lab / XLab Research Apprentice (Social Judgment Research with Co-Director Juliana Schroeder) (_June 2022 - Present_)"
+title: "Lead SOMO Lab / XLab Research Apprentice (Social Judgment Research with Co-Director Juliana Schroeder) (_June 2022 - Present_)"
 collection: research
 type: "Research Assistant"
 permalink: /research/schroeder-ra
