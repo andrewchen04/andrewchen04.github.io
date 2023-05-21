@@ -81,7 +81,7 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the [ASUC Vote Coalition](https://asuc.org/vote/) in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 50% in Fall 2022 by updating organization promotional materials and adapting the number and types of socials and professional events to fit members’ interests
 
-__Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Chapter)__
+__Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Iota Chapter)__
 
 * __President__ (_May 2023 - Present_)
   * Spearhead the reincarnation of UC Berkeley’s chapter of Pi Sigma Alpha
