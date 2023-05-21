@@ -10,8 +10,13 @@ Below is a list of all the courses I have taken so far.
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
 ## Senior Year
+* Fall 2023
+  * [POLSCI H190A: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
+  * PSYCH C162: Human Happiness
+  * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
+  * UGBA 199: Supervised Independent Study and Research
 * Summer 2023
-  * DIGHUM 100: Theory and Method in the Digital Humanities
+  * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
   * PSYCH N180: Industrial-Organizational Psychology
 
 ## Junior Year
