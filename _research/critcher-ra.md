@@ -13,3 +13,6 @@ __Responsibilities__:
 - Applied the scientific method to answer complex questions that related to the intersection of judgment and decision-making, consumer behavior, and social psychology
 
 _Lab research is viewable [here](https://www.somolab.org/overview)._
+
+## SOMO Lab Pizza Party (_November 2022_)
+<img width="800" src="https://user-images.githubusercontent.com/100865459/210119562-c39d0d8e-0de4-4482-87be-8bd713eb4689.jpeg">
