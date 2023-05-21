@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: May 18, 2023_
+_Last Updated: May 20, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -121,7 +121,7 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
-* __Senatorial Tasks Administrator ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
+* __Deputy Chief of Staff ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
   * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley through student government
   * Hosted weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
   * Published weekly and special Senate reports and presented office initiatives and progress to the Senate every week
