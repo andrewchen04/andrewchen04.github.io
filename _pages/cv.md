@@ -25,7 +25,7 @@ _Navigate to_:
 ======
 * __B.A. in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, May 2024
   * Honors to Date
-  * Pi Sigma Alpha (_The National Political Science Honor Society, Iota Chapter_)
+  * Pi Sigma Alpha (_The National Political Science Honor Society, UC Berkeley Iota Chapter_)
   * Psi Chi (_The International Honor Society in Psychology, UC Berkeley Chapter_)
 
 [Teaching Experience](#teaching-experience)
