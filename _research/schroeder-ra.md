@@ -14,3 +14,6 @@ __Responsibilities__:
 - Apply the scientific method to answer complex questions in social psychology
 
 _Lab research is viewable [here](https://www.somolab.org/overview)._
+
+## SOMO Lab Pizza Party (_April 2023_)
+<img width="800" src="https://user-images.githubusercontent.com/100865459/239700445-6fdba757-557b-49b5-9f24-a884772196f9.jpeg">
