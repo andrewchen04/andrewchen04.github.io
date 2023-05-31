@@ -94,6 +94,7 @@ __[Psi Chi, The International Honor Society in Psychology (University of Califor
   * Respond to organization emails promptly and professionally
   * Update the organization’s website as needed
   * Delegate tasks to and assist other members of the executive board
+  * Build and maintain relationships with department professors, advisors, and graduate students, in addition to other campus organizations
 
 * __Treasurer__ (_January 2023 - May 2023_)
   * Maintained an organized and up-to-date record of all organization financial transactions
