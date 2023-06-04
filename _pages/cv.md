@@ -164,8 +164,8 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Public Speaking
   * Team Building
 * __Programming Concepts/Tools__
-  * Git
   * Bash
+  * Git
   * HTML
   * XML
   * Cascading Style Sheets (CSS)
@@ -180,7 +180,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Qualtrics
   * R
 * __Qualitative and Quantitative Research__
-  * [CITI Human Research: Group 2 Social and Behavioral Research Investigators Certification](https://www.citiprogram.org/verify/?we02ae0bb-2f5f-458d-9085-b2a29444a740-47627968)
+  * [CITI: Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04/details/certifications/)
   * Experimental Design
   * Sona Systems
   * Survey Methods
