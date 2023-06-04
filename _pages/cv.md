@@ -166,19 +166,19 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
 * __Programming Concepts/Tools__
   * Bash
   * Git
-  * HTML
-  * XML
-  * Cascading Style Sheets (CSS)
   * Machine Learning
   * Object-Oriented Programming (OOP)
   * WordPress
 * __Programming/Statistical Languages__
+  * Cascading Style Sheets (CSS)
   * IBM SPSS Statistics
+  * HTML
   * Java
   * JavaScript
   * Python
   * Qualtrics
   * R
+  * XML
 * __Qualitative and Quantitative Research__
   * [CITI: Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04/details/certifications/)
   * Experimental Design
