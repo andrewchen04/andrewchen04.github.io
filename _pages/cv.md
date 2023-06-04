@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: May 20, 2023_
+_Last Updated: June 3, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -42,13 +42,13 @@ _Navigate to_:
 
 [Work Experience](#work-experience)
 ======
-* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Peer Advisor__ (_January 2021 - Present_)
-  * Introduce historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
-  * Host dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 students in attendance
-  * Individually contact 300+ students via telephone, email, and Zoom and connect them with available learning opportunities to transition into their first year of college with ample support
-  * Collaborate with a team of 49 peer and professional staff in weekly group awareness workshops
-  * Work cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
-  * Fulfill the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
+* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Peer Advisor__ (_January 2021 - June 2023_)
+  * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
+  * Hosted dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 students in attendance
+  * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
+  * Collaborated with a team of 49 peer and professional staff in weekly group awareness workshops
+  * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
+  * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
 
 * __[UC Berkeley Student Learning Center Writing Program](https://slc.berkeley.edu/writing) Assistant__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
@@ -165,8 +165,13 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Team Building
 * __Programming Concepts/Tools__
   * Git
+  * Bash
+  * HTML
+  * XML
+  * Cascading Style Sheets (CSS)
   * Machine Learning
   * Object-Oriented Programming (OOP)
+  * WordPress
 * __Programming/Statistical Languages__
   * IBM SPSS Statistics
   * Java
