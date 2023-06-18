@@ -13,4 +13,4 @@ __Responsibilities__:
 - Mentor interns through individual projects implementing the data science life cycle, from gathering publicly available data to cleaning and critically analyzing the data in Jupyter Notebooks with Python to presenting their research findings
 - Organize program planning hours with the faculty directors and associate group facilitators to redesign the program curriculum for a fully in-person experience and incorporate workshops and seminars with external speakers
 
-_A GitHub repository of program materials is available [here](https://github.com/ds-modules/BUDS-SU23), and a press release from last year's program (Summer 2022) is available [here](https://data.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year)._
+_A GitHub repository of program materials is available [here](https://github.com/ds-modules/BUDS-SU23), and a press release from the Summer 2021 program is available [here](https://data.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year)._
