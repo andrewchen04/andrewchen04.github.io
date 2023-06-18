@@ -50,7 +50,7 @@ _Navigate to_:
   * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
   * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
 
-* __[UC Berkeley Student Learning Center Writing Program](https://slc.berkeley.edu/writing) Assistant__ (_June 2022 - August 2022_)
+* __[UC Berkeley Student Learning Center Writing Program](https://slc.berkeley.edu/writing) Ambassador__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
