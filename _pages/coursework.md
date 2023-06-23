@@ -11,7 +11,9 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 ======
 ## Senior Year
 * Fall 2023
-  * [POLSCI H190A: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program) (_Primary Advisors: [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman) and [Juliana Schroeder](https://julianaschroeder.com/), Secondary Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes) and [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz)_)
+  * [POLSCI H190A: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
+    - Thesis Primary Advisors: [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman) and [Juliana Schroeder](https://julianaschroeder.com/)
+    - Thesis Secondary Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes) and [Amy Gurowitz](https://polisci.berkeley.edu/people/person/amy-gurowitz)
   * PSYCH C162: Human Happiness
   * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
   * UGBA 199: Supervised Independent Study and Research
