@@ -33,7 +33,9 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
   * PSYCH 134: Health Psychology
-  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)<br />- Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))<br />- Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
+  * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
+    - Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))
+    - Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
   * UGBA 199: Supervised Independent Study and Research
   * UGIS 192B: Supervised Research: Social Sciences
 * Summer 2022
