@@ -179,7 +179,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * R
   * XML
 * __Qualitative and Quantitative Research__
-  * [CITI: Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04/details/certifications/)
+  * [CITI: Animal, Biomedical, and Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04)
   * Experimental Design
   * Qualitative Coding
   * Sona Systems
