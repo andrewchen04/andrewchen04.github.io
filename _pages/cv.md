@@ -168,7 +168,6 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Git
   * Machine Learning
   * Object-Oriented Programming (OOP)
-  * WordPress
 * __Programming/Statistical Languages__
   * Cascading Style Sheets (CSS)
   * IBM SPSS Statistics
@@ -190,6 +189,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Google Workspace
   * Microsoft Office
   * Slack
+  * WordPress
   * Zoom
 
 _[Return to Top](https://andrewchen04.github.io/cv/)_
