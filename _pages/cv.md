@@ -181,8 +181,9 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
 * __Qualitative and Quantitative Research__
   * [CITI: Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04/details/certifications/)
   * Experimental Design
+  * Qualitative Coding
   * Sona Systems
-  * Survey Methods
+  * Survey Design
 * __Technologies__
   * Adobe Creative Cloud
   * Canva
