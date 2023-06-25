@@ -10,6 +10,6 @@ location: "Berkeley, California"
 
 __Responsibilities__:
 - Assisted 45 students every week in lab with questions about discussion worksheets, Jupyter notebook assignments, projects, and other course materials in DATA C8
-- Met with a shadow Teaching Assistant (TA) throughout the semester to practice and reflect on personal pedagogy skills and professional development
+- Met with a shadow Undergraduate Student Instructor (uGSI) throughout the semester to practice and reflect on personal pedagogy skills and professional development
 
 _Course materials are available [here](http://www.data8.org/sp22/)._
