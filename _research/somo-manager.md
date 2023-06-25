@@ -2,7 +2,7 @@
 title: "Interim SOMO Lab Manager (_May 2023 - June 2023_)"
 collection: research
 type: "Lab Manager"
-permalink: /research/somo-manager
+permalink: /research/somo-manager/
 venue: "University of California, Berkeley: Haas School of Business"
 location: "Berkeley, California"
 ---
