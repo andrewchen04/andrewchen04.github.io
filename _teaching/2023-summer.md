@@ -2,7 +2,7 @@
 title: "Lead Facilitator, Berkeley Unboxing Data Science (BUDS) (_Summer 2023_)"
 collection: teaching
 type: "Academic Enrichment Program"
-permalink: /teaching/2023-summer
+permalink: /teaching/2023-summer/
 venue: "University of California, Berkeley: College of Computing, Data Science, and Society (CDSS)"
 date: 2023-06-01
 location: "Berkeley, California"
