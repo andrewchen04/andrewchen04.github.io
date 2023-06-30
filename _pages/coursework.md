@@ -19,7 +19,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * UGBA 199: Supervised Independent Study and Research
 * Summer 2023
   * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
-    - Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
+    - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
+    - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
   * PSYCH N180: Industrial-Organizational Psychology
 
 ## Junior Year
