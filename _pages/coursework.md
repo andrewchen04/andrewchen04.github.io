@@ -47,7 +47,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 ## Sophomore Year
 * Spring 2022
   * DATA 198: Directed Group Studies for Advanced Undergraduates
-  * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://ph142-ucb.github.io/sp22/)
+  * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
   * POLSCI 161: Public Opinion, Voting, and Participation
   * PSYCH 101: Research and Data Analysis in Psychology
   * UGIS 192B: Supervised Research: Social Sciences
