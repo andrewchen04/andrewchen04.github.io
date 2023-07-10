@@ -42,7 +42,7 @@ _Navigate to_:
 
 [Work Experience](#work-experience)
 ======
-* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Peer Advisor__ (_January 2021 - June 2023_)
+* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Lead Peer Advisor__ (_January 2021 - June 2023_)
   * Introduced historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
   * Hosted dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 students in attendance
   * Individually contacted 300+ students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
