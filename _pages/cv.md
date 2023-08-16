@@ -67,6 +67,8 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
 [Leadership](#leadership)
 ======
+_During the 2023 - 2024 academic year, I received the [Cal Alumni Association](https://alumni.berkeley.edu/)'s [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/)._
+
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
 * __President__ (_April 2023 - Present_)
