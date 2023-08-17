@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: August 16, 2023_
+_Last Updated: August 17, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -124,12 +124,12 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
 __[Associated Students of the University of California (ASUC)](https://asuc.org/)__
 
-* __Deputy Chief of Staff ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - May 2023_)
+* __Deputy Chief of Staff (Office of Senator Carlos C. Vázquez)__ (_July 2022 - May 2023_)
   * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley through student government
   * Hosted weekly office hours to gather feedback from campus members on how the office can better serve them and their needs
   * Published weekly and special Senate reports and presented office initiatives and progress to the Senate every week
 
-* __Interim Legislative Department Director ([Office of Senator Carlos C. Vázquez](https://www.instagram.com/asucsenator_carloscvazquez/))__ (_July 2022 - September 2022_)
+* __Interim Legislative Department Director (Office of Senator Carlos C. Vázquez)__ (_July 2022 - September 2022_)
   * Supported the Administrative Team in an additional role during the Senate’s transition period
   * Reviewed the policymaking processes, bylaws, and rules/norms of the ASUC with office members
   * Provided legal advice to office teams and assisted teams in crafting and presenting legislation to the Senate
@@ -148,7 +148,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Constructed a logistic regression model that predicted whether Black Lives Matter (BLM) protests would or would not occur in a United States locality based on selected demographic features with 77% accuracy, 77% precision, 80% recall, and an AUC of 0.83
   * Presented results at the Spring 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
 
-* __[Career Exploration](https://saas.berkeley.edu/careerex) Committee Member__ (_January 2021 - May 2021_)
+* __[Data Foundations](https://saas.berkeley.edu/careerex) Committee Member__ (_January 2021 - May 2021_)
   * Participated in weekly lectures exploring foundational concepts and tools in statistics, data science, machine learning, and Python programming (with pandas, NumPy, scikit-learn, seaborn, and matplotlib)
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned in lectures
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
