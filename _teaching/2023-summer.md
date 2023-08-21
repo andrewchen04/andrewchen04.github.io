@@ -15,6 +15,3 @@ __Responsibilities__:
 - Mentored two associate group facilitators and met with them throughout the program to discuss effective pedagogy techniques and professional development
 
 _A GitHub repository of program materials is available [here](https://github.com/ds-modules/BUDS-SU23), and a press release from the Summer 2021 program is available [here](https://data.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year)._
-
-## BUDS Closing Ceremony (_July 2023_)
-![](https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/95326428-1943-4905-93d0-89786fe65661)
