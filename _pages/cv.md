@@ -198,7 +198,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * XML
 * __Qualitative and Quantitative Research__
   * [CITI: Animal, Biomedical, and Human Subjects Research Certifications](https://www.linkedin.com/in/andrewchen04)
-    - _Scroll to "Licenses & Certifications" Section_
+    - _Scroll to the "Licenses & Certifications" Section_
   * Experimental Design
   * Qualitative Coding
   * Sona Systems
