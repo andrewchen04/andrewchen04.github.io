@@ -10,7 +10,7 @@ location: "Berkeley, California"
 
 __Responsibilities__:
 - Led a team of ten student interns from historically underrepresented backgrounds in STEM through a rigorous, hands-on enrichment program to develop their understanding of the computational approaches, applications, and possibilities of data science and data analytics on a personal and societal level
-- Mentored interns through individual projects implementing the data science life cycle, from gathering publicly available data to cleaning and critically analyzing the data in Jupyter Notebooks with Python to presenting their research findings
+- Guided interns through individual projects implementing the data science life cycle, from gathering publicly available data to cleaning and critically analyzing the data in Jupyter Notebooks with Python to presenting their research findings
 - Organized program planning hours with the two faculty directors to redesign the program curriculum for a majority in-person experience and incorporate workshops and seminars with external guest speakers
 - Mentored two associate group facilitators and met with them throughout the program to discuss effective pedagogy techniques and professional development
 
