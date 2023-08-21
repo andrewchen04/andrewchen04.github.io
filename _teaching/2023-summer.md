@@ -17,4 +17,4 @@ __Responsibilities__:
 _A GitHub repository of program materials is available [here](https://github.com/ds-modules/BUDS-SU23), and a press release from the Summer 2021 program is available [here](https://data.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year)._
 
 ## BUDS Closing Ceremony (_July 2023_)
-<img width="800" src"=https://drive.google.com/file/d/1DdaH91BVHlBIteI-IZliMpjFDp4otTnO/view?usp=sharing">
+<img width="800" src="https://drive.google.com/file/d/1DdaH91BVHlBIteI-IZliMpjFDp4otTnO/view?usp=sharing">
