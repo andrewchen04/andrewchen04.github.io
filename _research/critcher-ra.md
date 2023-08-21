@@ -1,5 +1,5 @@
 ---
-title: "SOMO Lab / BLab Research Apprentice (Moral Judgment Research with Co-Director Clayton R. Critcher) (_January 2022 - December 2022_)"
+title: "Social and Moral Judgment Lab / Berkeley Haas Behavioral Lab Research Apprentice (_January 2022 - December 2022_)"
 collection: research
 type: "Research Assistant"
 permalink: /research/critcher-ra/
