@@ -16,7 +16,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - Thesis Secondary Advisor: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes)
   * PSYCH C162: Human Happiness
   * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
-  * UGBA 199: Supervised Independent Study and Research
+  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
 * Summer 2023
   * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
@@ -29,17 +29,17 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * POLSCI 191: Junior Seminar: Representation and Distribution (Data-Intensive)
   * PSYCH 130: Clinical Psychology
   * PSYCH 147: Methods in Cognitive Development
-  * UGBA 199: Supervised Independent Study and Research
+  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
 * Fall 2022
-  * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/)
+  * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (Graduate Seminar)
   * DATA 198: Directed Group Studies for Advanced Undergraduates
-  * POLSCI 192: Pipeline Initiative in Political Science (PIPS)
+  * [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs)
   * PSYCH 134: Health Psychology
   * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
     - Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))
     - Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
-  * UGBA 199: Supervised Independent Study and Research
-  * UGIS 192B: Supervised Research: Social Sciences
+  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
+  * UGIS 192B: Supervised Research: Social Sciences (Moral Judgment Research)
 * Summer 2022
   * MCELLBI W61: Brain, Mind, and Behavior
   * POLSCI 109B: The Politics of Public Policy
@@ -48,13 +48,13 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * Spring 2022
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
-  * POLSCI 161: Public Opinion, Voting, and Participation
+  * POLSCI 161: Public Opinion, Voting, and Participation (Data-Focused)
   * PSYCH 101: Research and Data Analysis in Psychology
-  * UGIS 192B: Supervised Research: Social Sciences
+  * UGIS 192B: Supervised Research: Social Sciences (Moral Judgment Research)
 * Fall 2021
   * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Currently known as DATA C88C_)
   * COMPSCI 197: Field Study
-  * POLSCI 88: The Scientific Study of Politics
+  * POLSCI 88: The Scientific Study of Politics (Data-Focused)
   * POLSCI 109Z: Crime and Democracy
   * STAT 2: Introduction to Statistics
   * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Currently known as DATA C88S_)
