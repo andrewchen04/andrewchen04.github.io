@@ -7,6 +7,11 @@ author_profile: true
 
 Please enjoy this assortment of photos!
 
+[Summer 2023](#summer-2023)
+======
+## BUDS Closing Ceremony (_July 2023_)
+
+
 [Spring 2023](#spring-2023)
 ======
 ## SOMO Lab Pizza Party (_April 2023_)
