@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: August 20, 2023_
+_Last Updated: September 4, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -59,6 +59,12 @@ _Navigate to_:
 
 [Service](#service)
 ======
+__[UC Berkeley College of Computing, Data Science, and Society](https://data.berkeley.edu/)__
+
+* __[Associate Dean of Students’ Undergraduate Student Advisory Board](https://data.berkeley.edu/news/cdss-seeks-undergraduate-student-nominations-new-advisory-committee) Member__ (_August 2023 - Present_)
+  * Nominated to serve on the Undergraduate Student Advisory Board for the newly established College of Computing, Data Science, and Society (CDSS), convened by Associate Dean of Students Deborah Nolan
+  * Meet monthly with college decision-makers to provide critical feedback on ongoing/planned projects, such as expanding CDSS-affiliated student opportunities and ensuring CDSS’ commitment to diversity, equity, inclusion, belonging, and justice in practice
+
 __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
 * __[Vice Provost’s Student Advisory Council](https://ue.berkeley.edu/committees/sacue) Member__ (_August 2022 - Present_)
@@ -209,7 +215,7 @@ __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/
   * Google Workspace
   * Microsoft Office
   * Slack
-  * SquareSpace
+  * Squarespace
   * Wix
   * WordPress
   * Zoom
