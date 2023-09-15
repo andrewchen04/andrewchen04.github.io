@@ -11,6 +11,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 ======
 ## Senior Year
 * Fall 2023
+  * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (Graduate Seminar)
   * [POLSCI H190A: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Primary Advisors: [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman) and [Juliana Schroeder](https://julianaschroeder.com/)
     - Thesis Secondary Advisor: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes)
