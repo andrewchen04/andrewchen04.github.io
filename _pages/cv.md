@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: September 4, 2023_
+_Last Updated: September 25, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -78,7 +78,7 @@ _During the 2023 - 2024 academic year, I was a recipient of the [Cal Alumni Asso
 
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
-* __President__ (_April 2023 - Present_)
+* __Co-President__ (_April 2023 - Present_)
   * Lead the organization’s planning of events and goal-setting each semester
   * Prepare agendas/presentations and facilitate weekly board meetings and organization general meetings
   * Delegate responsibilities to other board members and ensure that they are completed
