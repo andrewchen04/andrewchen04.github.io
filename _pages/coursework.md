@@ -18,7 +18,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - Thesis Secondary Advisor: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes)
   * PSYCH C162: Human Happiness
   * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
-  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
+  * UGBA 199: Supervised Independent Study and Research
+    * Social Judgment Research
 * Summer 2023
   * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
@@ -31,7 +32,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * POLSCI 191: Junior Seminar: Representation and Distribution (Data-Intensive)
   * PSYCH 130: Clinical Psychology
   * PSYCH 147: Methods in Cognitive Development
-  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
+  * UGBA 199: Supervised Independent Study and Research
+    * Social Judgment Research
 * Fall 2022
   * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (Graduate Seminar)
   * DATA 198: Directed Group Studies for Advanced Undergraduates
@@ -40,8 +42,10 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
     - Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))
     - Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
-  * UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
-  * UGIS 192B: Supervised Research: Social Sciences (Moral Judgment Research)
+  * UGBA 199: Supervised Independent Study and Research
+    * Social Judgment Research
+  * UGIS 192B: Supervised Research: Social Sciences
+    * Moral Judgment Research
 * Summer 2022
   * MCELLBI W61: Brain, Mind, and Behavior
   * POLSCI 109B: The Politics of Public Policy
@@ -66,7 +70,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 ## Freshman Year
 * Spring 2021
-  * ECON 1: Introduction to Economics (Macro & Micro)
+  * ECON 1: Introduction to Economics
+    * Macroeconomics and Microeconomics
   * MATH 16A: Analytic Geometry and Calculus
   * NUSCTX 11: Introduction to Toxicology
   * POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
