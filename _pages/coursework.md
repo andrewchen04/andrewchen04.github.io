@@ -56,7 +56,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
   * POLSCI 161: Public Opinion, Voting, and Participation (Data-Focused)
   * PSYCH 101: Research and Data Analysis in Psychology
-  * UGIS 192B: Supervised Research: Social Sciences (Moral Judgment Research)
+  * UGIS 192B: Supervised Research: Social Sciences
+    * Moral Judgment Research
 * Fall 2021
   * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Currently known as DATA C88C_)
   * COMPSCI 197: Field Study
