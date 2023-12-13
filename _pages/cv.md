@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: September 25, 2023_
+_Last Updated: December 12, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -27,6 +27,8 @@ _Navigate to_:
   * Honors to Date
   * Pi Sigma Alpha (_The National Political Science Honor Society, UC Berkeley Iota Chapter_)
   * Psi Chi (_The International Honor Society in Psychology, UC Berkeley Chapter_)
+  * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
+  * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) Recipient
 
 [Teaching Experience](#teaching-experience)
 ======
@@ -74,7 +76,6 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 
 [Leadership](#leadership)
 ======
-_During the 2023 - 2024 academic year, I was a recipient of the [Cal Alumni Association](https://alumni.berkeley.edu/)'s [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/)._
 
 __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
 
