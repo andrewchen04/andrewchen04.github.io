@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: December 12, 2023_
+_Last Updated: December 16, 2023_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -91,7 +91,7 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 40% in the 2022-23 academic year by updating promotional materials and adapting the number and types of events to better fit members’ academic and professional interests
 
-__Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Iota Chapter)__
+__[Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Iota Chapter)](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)__
 
 * __President__ (_May 2023 - Present_)
   * Spearhead the reincarnation of UC Berkeley’s chapter of Pi Sigma Alpha, outlining the organization’s goals and leading the planning of events each semester
@@ -122,7 +122,7 @@ __[Psi Chi, The International Honor Society in Psychology (University of Califor
 
 __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
 
-* __Finance Chair__ (_May 2023 - Present_)
+* __Vice President of Finance__ (_May 2023 - Present_)
   * Oversee an overhaul of the organization’s finance system
   * Secure new funding initiatives to ensure adequate income and maintain long-term viability
   * Plan and review the organization’s budget for the semester and spending for each event
@@ -131,7 +131,7 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
   * Generate fiscal reports for UC Berkeley’s ASUC/GA and LEAD Center as needed
   * Process all membership dues and fee waivers
 
-* __Data Science Education Team Member__ (_January 2023 - May 2023_)
+* __Data Science Education Team Facilitator__ (_January 2023 - May 2023_)
   * Guided a committee of six members with little to no programming/statistical experience through learning a fundamental topic/package in data science each week
   * Mentored members through individual projects implementing the data science life cycle, from gathering publicly available data to cleaning and critically analyzing the data in Google Colab with Python to presenting their research findings
   * Prepared agendas/presentations and curated resources for each week’s lesson
@@ -160,16 +160,16 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 ======
 __[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
 
-* __[Internal Affairs](https://saas.berkeley.edu/ivp) Committee Member, House Prefect__ (_May 2021 - Present_)
+* __[Internal Affairs](https://saas.berkeley.edu/ivp) Officer__ (_May 2021 - Present_)
   * Contribute to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 130 members to interact with one another outside of their designated committees
   * Perform internal club tasks including, but not limited to, managing the big/little program, conducting member profile interviews, facilitating study group sessions, and designing presentation templates and social media posts (with Google Workspace, Microsoft Office, Adobe Creative Cloud, and Canva)
 
-* __[Research and Publication](https://saas.berkeley.edu/research) Committee Member__ (_January 2022 - May 2022_)
+* __Data Science [Researcher](https://saas.berkeley.edu/research)__ (_January 2022 - May 2022_)
   * Participated in weekly workshops covering advanced techniques in data cleaning, data analysis, data visualization, version control, quantitative and qualitative research, and presentation skills (with various libraries and packages in Python and R)
   * Constructed a logistic regression model that predicted whether Black Lives Matter (BLM) protests would or would not occur in a United States locality based on selected demographic features with 77% accuracy, 77% precision, 80% recall, and an AUC of 0.83
   * Presented results at the Spring 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 250+ community members
 
-* __[Data Foundations](https://saas.berkeley.edu/careerex) Committee Member__ (_January 2021 - May 2021_)
+* __[Data Foundations](https://saas.berkeley.edu/careerex) Developer__ (_January 2021 - May 2021_)
   * Participated in weekly workshops exploring foundational concepts and tools in statistics, data science, machine learning, and Python programming (with pandas, NumPy, scikit-learn, seaborn, and matplotlib)
   * Competed in a Kaggle data science competition on rainfall prediction in Australia, designed to solidify concepts learned during workshops
   * Connected with upper-division students to gain professional development skills and resources and learn more about internship recruitment and strategies to succeed academically
