@@ -10,12 +10,20 @@ Below is a list of all the courses I have taken so far.
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
 ## Senior Year
+* Spring 2024
+  * DATA 198: Directed Group Studies for Advanced Undergraduates
+  * [POLSCI H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
+    - Thesis Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
+  * PSYCH C127: Cognitive Neuroscience
+  * PSYCH 156: Human Emotion
+  * PSYCH 160: Social Psychology
+  * UGBA 199: Supervised Independent Study and Research
+    * Social Judgment Research
 * Fall 2023
   * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (Graduate Seminar)
   * DATA 198: Directed Group Studies for Advanced Undergraduates
   * [POLSCI H190A: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
-    - Thesis Primary Advisors: [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman) and [Juliana Schroeder](https://julianaschroeder.com/)
-    - Thesis Secondary Advisor: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes)
+    - Thesis Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
   * PSYCH C162: Human Happiness
   * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
   * UGBA 199: Supervised Independent Study and Research
