@@ -15,7 +15,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
   * [POLSCI H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
   * PSYCH C127: Cognitive Neuroscience
-  * PSYCH 156: Human Emotion
   * PSYCH 160: Social Psychology
   * UGBA 199: Supervised Independent Study and Research
     * Social Judgment Research
