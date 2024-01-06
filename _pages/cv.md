@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: December 16, 2023_
+_Last Updated: January 5, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -64,7 +64,7 @@ _Navigate to_:
 __[UC Berkeley College of Computing, Data Science, and Society](https://data.berkeley.edu/)__
 
 * __[Associate Dean of Students’ Undergraduate Student Advisory Board](https://data.berkeley.edu/news/cdss-seeks-undergraduate-student-nominations-new-advisory-committee) Member__ (_August 2023 - Present_)
-  * Nominated to serve on the Undergraduate Student Advisory Board for the newly established College of Computing, Data Science, and Society (CDSS), convened by Associate Dean of Students Deborah Nolan
+  * Nominated to serve on the Undergraduate Student Advisory Board for the newly established College of Computing, Data Science, and Society (CDSS), convened by Associate Dean of Students Deborah A. Nolan
   * Meet monthly with college decision-makers to provide critical feedback on ongoing/planned projects, such as expanding CDSS-affiliated student opportunities and ensuring CDSS’ commitment to diversity, equity, inclusion, belonging, and justice in practice
 
 __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
