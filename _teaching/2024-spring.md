@@ -7,3 +7,5 @@ venue: "University of California, Berkeley: College of Computing, Data Science, 
 date: 2024-01-01
 location: "Berkeley, California"
 ---
+
+_DATA C8 course materials are available [here](http://www.data8.org/sp24/), and a description of the Data Scholars Program is available [here](https://data.berkeley.edu/academics/campus-resources/data-scholars)._
