@@ -16,7 +16,7 @@ Please enjoy this assortment of photos!
 <img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/579c3352-7299-4616-80eb-f911ebf67679">
 
 ## PCS Faculty Talk (_November 2023_)
-<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/90791cbd-41bd-49af-8eed-ceb017a213cb">
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/c345730e-b938-4487-8bda-8cfc597cc858">
 
 ## Psi Chi Member Dinner (_November 2023_)
 <img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/b2c78a36-37aa-46bd-824f-eead0d89f603">
