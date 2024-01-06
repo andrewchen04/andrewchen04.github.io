@@ -9,11 +9,17 @@ Please enjoy this assortment of photos!
 
 [Fall 2023](#fall-2023)
 ======
+## PSA Member Dinner (_December 2023_)
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/579c3352-7299-4616-80eb-f911ebf67679">
+
 ## PCS Faculty Talk (_November 2023_)
 <img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/90791cbd-41bd-49af-8eed-ceb017a213cb">
 
 [Spring 2023](#spring-2023)
 ======
+## SAAS Internal Affairs Officers (_May 2023_)
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/8a18aefc-a33f-4016-8b49-693bb405f6e4">
+
 ## SOMO Lab Pizza Party (_April 2023_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/239700445-6fdba757-557b-49b5-9f24-a884772196f9.jpeg">
 
@@ -38,13 +44,13 @@ _Such messages formed the basis for my [Campus Wide Staff Appreciation Award](ht
 ## SOMO Lab Pizza Party (_November 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210119562-c39d0d8e-0de4-4482-87be-8bd713eb4689.jpeg">
 
-## ASUC _Shady_ Office Photo (_October 2022_)
+## ASUC _Shady_ Office (_October 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210119473-cd7a0537-7425-490f-b23b-b9b6f9b6a88d.png">
 
-## SACUE Sunset Photo (_October 2022_)
+## SACUE Sunset (_October 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118247-0f53ba9e-c95e-46a2-8745-ad6aa55e13d2.jpg">
 
-## UPSA Board Photo _in 102°F Weather_ (_September 2022_)
+## UPSA Board _in 102°F Weather_ (_September 2022_)
 <img width="800" src="https://user-images.githubusercontent.com/100865459/210118022-692e5321-ad58-49e1-8134-60223b549bb5.jpeg">
 
 [Spring 2022](#spring-2022)
