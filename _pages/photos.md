@@ -7,6 +7,11 @@ author_profile: true
 
 Please enjoy this assortment of photos!
 
+[Fall 2023](#fall-2023)
+======
+## PCS Faculty Talk (_November 2023_)
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/90791cbd-41bd-49af-8eed-ceb017a213cb">
+
 [Spring 2023](#spring-2023)
 ======
 ## SOMO Lab Pizza Party (_April 2023_)
