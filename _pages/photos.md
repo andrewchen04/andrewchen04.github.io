@@ -9,11 +9,22 @@ Please enjoy this assortment of photos!
 
 [Fall 2023](#fall-2023)
 ======
+## Data Scholars: Foundations Staff Social (_December 2023_)
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/c27a2928-216a-4e32-a81c-53c85a3ded1f">
+
 ## PSA Member Dinner (_December 2023_)
 <img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/579c3352-7299-4616-80eb-f911ebf67679">
 
 ## PCS Faculty Talk (_November 2023_)
 <img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/90791cbd-41bd-49af-8eed-ceb017a213cb">
+
+## Psi Chi Member Dinner (_November 2023_)
+<img width="800" src="https://github.com/andrewchen04/andrewchen04.github.io/assets/100865459/bbbf32fd-8350-4b18-90a3-8ff3fbb5af19">
+
+[Summer 2023](#summer-2023)
+======
+## BUDS (_June 2023_)
+<img width="800" src="">
 
 [Spring 2023](#spring-2023)
 ======
