@@ -56,15 +56,12 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * DATA 198: Directed Group Studies for Advanced Undergraduates
 
 # Research Courses
-* UGBA 199: Supervised Independent Study and Research
-    - Social Judgment Research
-* UGIS 192B: Supervised Research: Social Sciences
-    - Moral Judgment Research
+* UGBA 199: Supervised Independent Study and Research (Social Judgment Research)
+* UGIS 192B: Supervised Research: Social Sciences (Moral Judgment Research)
 
-# Elective and General Education/Breadth Courses
+# Elective Courses
 * ANTHRO R5B: Reading and Composition in Anthropology
-* ECON 1: Introduction to Economics
-  - Macroeconomics and Microeconomics
+* ECON 1: Introduction to Economics (Macroeconomics and Microeconomics)
 * [EPS 7: Introduction to Climate Change](https://romps.berkeley.edu/teaching/courses-2020-fall-eps7.html)
 * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
 * [HISTORY 98BC: Berkeley Connect in History](https://berkeleyconnect.berkeley.edu/finding-connection/participating-departments/history)
