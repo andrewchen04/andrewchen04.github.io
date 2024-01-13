@@ -72,19 +72,19 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
-# Psychology
+# Psychology Courses
 * PSYC 101: General Psychology
 
 __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
 ======
-# Administration of Justice
+# Administration of Justice Courses
 * ADJU 101: Introduction to the Administration of Justice
 * ADJU 102: Criminal Law I
 
-# Political Science
+# Political Science Courses
 * POLI 101: Introduction to Political Science
 * POLI 102: The American Political System
 
-# Sociology
+# Sociology Courses
 * SOCO 101: Principles of Sociology
 * SOCO 110: Contemporary Social Problems
