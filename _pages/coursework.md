@@ -9,7 +9,7 @@ Below is a list of all the courses I have taken so far.
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
-## Political Science Major Courses
+# Political Science Major Courses
 * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
 * POLSCI 5: Introduction to International Relations
 * POLSCI 88: The Scientific Study of Politics (Data-Focused)
@@ -24,7 +24,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * POLSCI 191: Junior Seminar: Representation and Distribution (Data-Intensive)
 * [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs)
 
-## Psychology Major Courses
+# Psychology Major Courses
 * MCELLBI W61: Brain, Mind, and Behavior
 * PSYCH 101: Research and Data Analysis in Psychology
 * PSYCH C127: Cognitive Neuroscience
@@ -35,7 +35,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * PSYCH C162: Human Happiness
 * PSYCH N180: Industrial-Organizational Psychology
 
-## Data Science Minor Courses
+# Data Science Minor Courses
 * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Currently known as DATA C88C_)
 * COMPSCI 197: Field Study
 * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
@@ -51,17 +51,17 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - Project: Personal Investment Simulator ([Shiny App](https://andrewchen.shinyapps.io/InvestmentSimulator/))
     - Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
 
-## Pedagogy Courses
+# Pedagogy Courses
 * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (Graduate Seminar)
 * DATA 198: Directed Group Studies for Advanced Undergraduates
 
-## Research Courses
+# Research Courses
 * UGBA 199: Supervised Independent Study and Research
     - Social Judgment Research
 * UGIS 192B: Supervised Research: Social Sciences
     - Moral Judgment Research
 
-## Elective and General Education/Breadth Courses
+# Elective and General Education/Breadth Courses
 * ANTHRO R5B: Reading and Composition in Anthropology
 * ECON 1: Introduction to Economics
   - Macroeconomics and Microeconomics
@@ -75,19 +75,19 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
-## Psychology
+# Psychology
 * PSYC 101: General Psychology
 
 __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
 ======
-## Administration of Justice
+# Administration of Justice
 * ADJU 101: Introduction to the Administration of Justice
 * ADJU 102: Criminal Law I
 
-## Political Science
+# Political Science
 * POLI 101: Introduction to Political Science
 * POLI 102: The American Political System
 
-## Sociology
+# Sociology
 * SOCO 101: Principles of Sociology
 * SOCO 110: Contemporary Social Problems
