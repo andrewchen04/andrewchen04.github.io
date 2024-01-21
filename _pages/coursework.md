@@ -52,12 +52,12 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - Project: Text Analysis of _The Simpsons_ Transcripts ([Shiny App](https://andrewchen.shinyapps.io/Simpsons/))
 
 # Pedagogy Courses
-* [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (_Graduate Seminar_)
-* DATA 198: Directed Group Studies for Advanced Undergraduates
+* [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (_Graduate Seminar_) (_2 semesters_)
+* DATA 198: Directed Group Studies for Advanced Undergraduates (_4 semesters_)
 
 # Research Courses
-* UGBA 199: Supervised Independent Study and Research (_Social Judgment Research_)
-* UGIS 192B: Supervised Research: Social Sciences (_Moral Judgment Research_)
+* UGBA 199: Supervised Independent Study and Research (_Social Judgment Research_) (_4 semesters_)
+* UGIS 192B: Supervised Research: Social Sciences (_Moral Judgment Research_) (_2 semesters_)
 
 # Elective Courses
 * ANTHRO R5B: Reading and Composition in Anthropology
