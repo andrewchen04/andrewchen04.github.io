@@ -42,7 +42,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
-* MATH 16A: Analytic Geometry and Calculus
 * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
 * STAT 2: Introduction to Statistics
 * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Now Known as DATA C88S_)
