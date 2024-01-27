@@ -31,7 +31,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * PSYCH 130: Clinical Psychology
 * PSYCH 134: Health Psychology
 * PSYCH 147: Methods in Cognitive Development
-* PSYCH 160: Social Psychology
 * PSYCH C162: Human Happiness
 * PSYCH N180: Industrial-Organizational Psychology
 
@@ -65,6 +64,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
 * [HISTORY 98BC: Berkeley Connect in History](https://berkeleyconnect.berkeley.edu/finding-connection/participating-departments/history)
 * LS 2: Democracy in Crisis?
+* [LS 110: Brilliance of Berkeley](https://curricularconnections.berkeley.edu/ls110/)
 * NUSCTX 11: Introduction to Toxicology
 * THEATER 5: Public Speaking and Presentation Skills
 * UGBA 135: Personal Financial Management
