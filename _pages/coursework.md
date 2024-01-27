@@ -16,9 +16,9 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * POLSCI 109B: The Politics of Public Policy
 * POLSCI 109Z: Crime and Democracy
 * POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
-* POLSCI 132B: Machine Learning for Social Scientists
+* POLSCI 132B: Machine Learning for Social Scientists (_Data Science Elective Course_)
 * POLSCI 161: Public Opinion, Voting, and Participation (_Data-Focused_)
-* POLSCI W164A: Political Psychology and Involvement
+* POLSCI W164A: Political Psychology and Involvement (_Psychology Elective Course_)
 * [POLSCI H190A / H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
 * POLSCI 191: Junior Seminar: Representation and Distribution (_Data-Intensive_)
