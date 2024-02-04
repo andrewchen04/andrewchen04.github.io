@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: January 5, 2024_
+_Last Updated: February 4, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -23,7 +23,7 @@ _Navigate to_:
 
 [Education](#education)
 ======
-* __B.A. (Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, May 2024
+* __B.A. (Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, August 2024
   * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
   * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) Recipient
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
