@@ -25,7 +25,7 @@ _Navigate to_:
 ======
 * __B.A. (Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, August 2024
   * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
-  * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) Recipient
+  * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
   * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)_) Inductee
   * [Psi Chi](https://www.psichi.org/) (_The International Honor Society in Psychology, [UC Berkeley Chapter](https://psichi.berkeley.edu/)_) Inductee
