@@ -12,7 +12,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 # Political Science Major Courses
 * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
 * POLSCI 5: Introduction to International Relations
-* POLSCI 88: The Scientific Study of Politics (_Data Science Connector Course_)
+* [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://github.com/ds-connectors/PolSci-88-FA21)_)
 * POLSCI 109B: The Politics of Public Policy
 * POLSCI 109Z: Crime and Democracy
 * POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
