@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: March 20, 2024_
+_Last Updated: March 21, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -78,7 +78,7 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 [Leadership](#leadership)
 ======
 
-__UC Berkeley Undergraduate Political Science Association ([UPSA]((https://upsaberkeley.wixsite.com/my-site)))__
+__UC Berkeley Undergraduate Political Science Association ([UPSA]((https://upsaberkeley.wixsite.com/my-site))__
 
 * __Co-President__ (_April 2023 - Present_)
   * Lead the organization’s planning of events and goal-setting each semester
@@ -92,7 +92,7 @@ __UC Berkeley Undergraduate Political Science Association ([UPSA]((https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 40% in the 2022-23 academic year by updating promotional materials and adapting the number and types of events to better fit members’ academic and professional interests
 
-__Pi Sigma Alpha, The National Political Science Honor Society ([University of California, Berkeley Iota Chapter]((https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)))__
+__Pi Sigma Alpha, The National Political Science Honor Society ([University of California, Berkeley Iota Chapter]((https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups))__
 
 * __President__ (_May 2023 - Present_)
   * Spearhead the reincarnation of UC Berkeley’s chapter of Pi Sigma Alpha, outlining the organization’s goals and leading the planning of events each semester
@@ -102,7 +102,7 @@ __Pi Sigma Alpha, The National Political Science Honor Society ([University of C
   * Maintain close communication with the department’s chair and advisors regarding student membership eligibility and scholarship/professional development opportunities
   * Oversee the administration and expansion of the chapter’s “Political Science Opportunity Scholarship“ for low-income political science students, the only need-based scholarship housed under UC Berkeley’s Charles and Louise Travers Department of Political Science
 
-__Psi Chi, The International Honor Society in Psychology ([University of California, Berkeley Chapter]((https://psichi.berkeley.edu/)))__
+__Psi Chi, The International Honor Society in Psychology ([University of California, Berkeley Chapter]((https://psichi.berkeley.edu/))__
 
 * __Executive Administrator__ (_May 2023 - Present_)
   * Handle day-to-day administrative operations of UC Berkeley’s chapter of Psi Chi, outlining the organization’s goals and spearheading the planning of events each semester
@@ -121,7 +121,7 @@ __Psi Chi, The International Honor Society in Psychology ([University of Califor
   * Generated fiscal reports for UC Berkeley’s ASUC/GA and LEAD Center as needed
   * Processed all chapter membership dues and fee waivers to the national organization
 
-__Political Computer Science @ Berkeley ([PCS]((https://pcs.berkeley.edu/)))__
+__Political Computer Science @ Berkeley ([PCS]((https://pcs.berkeley.edu/))__
 
 * __Vice President of Finance__ (_May 2023 - Present_)
   * Oversee an overhaul of the organization’s finance system
@@ -144,7 +144,7 @@ __Political Computer Science @ Berkeley ([PCS]((https://pcs.berkeley.edu/)))__
   * Presented results at the Fall 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 200+ community members
   * Served as the primary liaison for PCS in coordinating logistics with other organizations for BEARS
 
-__Associated Students of the University of California ([ASUC]((https://asuc.org/)))__
+__Associated Students of the University of California ([ASUC]((https://asuc.org/))__
 
 * __Deputy Chief of Staff (Office of Senator Carlos C. Vázquez)__ (_July 2022 - May 2023_)
   * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley through student government
