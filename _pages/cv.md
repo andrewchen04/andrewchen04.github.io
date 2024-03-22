@@ -26,7 +26,7 @@ _Navigate to_:
 * __B.A. (Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, August 2024
   * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
   * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
-  * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor]((https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)) (OGSI) Award in [Data Science](https://data.berkeley.edu/) Recipient
+  * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/) Recipient
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
   * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)_) Inductee
   * [Psi Chi](https://www.psichi.org/) (_The International Honor Society in Psychology, [UC Berkeley Chapter](https://psichi.berkeley.edu/)_) Inductee
@@ -45,7 +45,9 @@ _Navigate to_:
 
 [Work Experience](#work-experience)
 ======
-* __[UC Berkeley Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Lead Peer Advisor__ (_January 2021 - June 2023_)
+__[UC Berkeley Student Learning Center](https://slc.berkeley.edu/)__
+
+* __[Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Lead Peer Advisor__ (_January 2021 - June 2023_)
   * Introduced 300+ historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
   * Hosted dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 guests in attendance
   * Individually contacted students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
@@ -54,7 +56,7 @@ _Navigate to_:
   * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
   * Nominated for UC Berkeley’s Outstanding Peer Advisor Award for “exceptional advising, mentoring, and counseling”
 
-* __[UC Berkeley Student Learning Center Writing Program](https://slc.berkeley.edu/writing) Ambassador__ (_June 2022 - August 2022_)
+* __[Writing Program](https://slc.berkeley.edu/writing) Ambassador__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
   * Greeted and guided writers to sign in and connected them with appropriate services/sessions
   * Supported in-person and virtual Vèvè Writing Lounge management during service hours with set-up/breakdown, attended to service/tutor-related questions from visitors, and took note of trends/patterns with writers and tutors
