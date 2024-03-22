@@ -26,7 +26,7 @@ _Navigate to_:
 * __B.A. (Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, August 2024
   * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
   * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
-  * [Graduate Division](https://grad.berkeley.edu/) Outstanding Graduate Student Instructor ([OGSI](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)) Award in [Data Science](https://data.berkeley.edu/) Recipient
+  * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor]((https://gsi.berkeley.edu/programs-services/award-programs/ogsi/)) (OGSI) Award in [Data Science](https://data.berkeley.edu/) Recipient
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
   * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)_) Inductee
   * [Psi Chi](https://www.psichi.org/) (_The International Honor Society in Psychology, [UC Berkeley Chapter](https://psichi.berkeley.edu/)_) Inductee
@@ -78,7 +78,7 @@ __[UC Berkeley Division of Undergraduate Education](https://ue.berkeley.edu/)__
 [Leadership](#leadership)
 ======
 
-__[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsaberkeley.wixsite.com/my-site)__
+__UC Berkeley Undergraduate Political Science Association ([UPSA]((https://upsaberkeley.wixsite.com/my-site)))__
 
 * __Co-President__ (_April 2023 - Present_)
   * Lead the organization’s planning of events and goal-setting each semester
@@ -92,7 +92,7 @@ __[UC Berkeley Undergraduate Political Science Association (UPSA)](https://upsab
   * Hosted the largest Election Night event on campus since 2016, sponsored by the ASUC Vote Coalition in November 2022, providing a safe, non-partisan space for community members to view and discuss the midterm election results and implications
   * Improved organization membership numbers by 25% and event attendance by 40% in the 2022-23 academic year by updating promotional materials and adapting the number and types of events to better fit members’ academic and professional interests
 
-__[Pi Sigma Alpha, The National Political Science Honor Society (University of California, Berkeley Iota Chapter)](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)__
+__Pi Sigma Alpha, The National Political Science Honor Society ([University of California, Berkeley Iota Chapter]((https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)))__
 
 * __President__ (_May 2023 - Present_)
   * Spearhead the reincarnation of UC Berkeley’s chapter of Pi Sigma Alpha, outlining the organization’s goals and leading the planning of events each semester
@@ -102,7 +102,7 @@ __[Pi Sigma Alpha, The National Political Science Honor Society (University of C
   * Maintain close communication with the department’s chair and advisors regarding student membership eligibility and scholarship/professional development opportunities
   * Oversee the administration and expansion of the chapter’s “Political Science Opportunity Scholarship“ for low-income political science students, the only need-based scholarship housed under UC Berkeley’s Charles and Louise Travers Department of Political Science
 
-__[Psi Chi, The International Honor Society in Psychology (University of California, Berkeley Chapter)](https://psichi.berkeley.edu/)__
+__Psi Chi, The International Honor Society in Psychology ([University of California, Berkeley Chapter]((https://psichi.berkeley.edu/)))__
 
 * __Executive Administrator__ (_May 2023 - Present_)
   * Handle day-to-day administrative operations of UC Berkeley’s chapter of Psi Chi, outlining the organization’s goals and spearheading the planning of events each semester
@@ -121,7 +121,7 @@ __[Psi Chi, The International Honor Society in Psychology (University of Califor
   * Generated fiscal reports for UC Berkeley’s ASUC/GA and LEAD Center as needed
   * Processed all chapter membership dues and fee waivers to the national organization
 
-__[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
+__Political Computer Science @ Berkeley ([PCS]((https://pcs.berkeley.edu/)))__
 
 * __Vice President of Finance__ (_May 2023 - Present_)
   * Oversee an overhaul of the organization’s finance system
@@ -144,7 +144,7 @@ __[Political Computer Science @ Berkeley (PCS)](https://pcs.berkeley.edu/)__
   * Presented results at the Fall 2022 Berkeley EECS and Research Symposium (BEARS) to an audience of 200+ community members
   * Served as the primary liaison for PCS in coordinating logistics with other organizations for BEARS
 
-__[Associated Students of the University of California (ASUC)](https://asuc.org/)__
+__Associated Students of the University of California ([ASUC]((https://asuc.org/)))__
 
 * __Deputy Chief of Staff (Office of Senator Carlos C. Vázquez)__ (_July 2022 - May 2023_)
   * Ensured the proper functioning of the 30-member office and assisted other executives and teams with efforts to elevate intersectionality, disability justice, and underrepresented students at UC Berkeley through student government
@@ -159,7 +159,7 @@ __[Associated Students of the University of California (ASUC)](https://asuc.org/
 
 [Organizations](#organizations)
 ======
-__[Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)__
+__Student Association for Applied Statistics ([SAAS](https://saas.berkeley.edu/))__
 
 * __[Internal Affairs](https://saas.berkeley.edu/ivp) Officer__ (_May 2021 - Present_)
   * Contribute to the club’s social atmosphere by planning and hosting in-person and virtual whole-club and smaller house events for 130 members to interact with one another outside of their designated committees
