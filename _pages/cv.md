@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: March 21, 2024_
+_Last Updated: March 23, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -48,13 +48,12 @@ _Navigate to_:
 __[UC Berkeley Student Learning Center](https://slc.berkeley.edu/)__
 
 * __[Summer Bridge Program](https://slc.berkeley.edu/summer-bridge) Lead Peer Advisor__ (_January 2021 - June 2023_)
-  * Introduced 300+ historically underrepresented and underserved first-year students to the social atmosphere, academic rigor, and extracurricular opportunities of a world-class research university each spring and summer
-  * Hosted dynamic and inclusive in-person and virtual outreach events, speaker panels, and student workshops, answering students’ questions and sharing advice on how to navigate the collegiate environment, with 25 to 1,000 guests in attendance
+  * Guided 300+ historically underrepresented first-year students through an intensive summer program, offering insights into the social atmosphere, academic rigor, and extracurricular opportunities of a large, public research institution
+  * Organized eight engaging in-person and virtual events each spring and summer, including outreach activities, panel discussions, and student workshops, addressing students’ concerns and connecting them with available support opportunities
   * Individually contacted students via telephone, email, and Zoom and connected them with available learning opportunities to transition into their first year of college with ample support
   * Collaborated with a team of 49 peer and professional staff in weekly group awareness workshops
   * Worked cross-functionally to support UC Berkeley’s Student Learning Center (SLC) and affiliated programs as needed
-  * Fulfilled the goal of educational justice in UC Berkeley’s Admissions and Summer Bridge Programs
-  * Nominated for UC Berkeley’s Outstanding Peer Advisor Award for “exceptional advising, mentoring, and counseling”
+  * Recognized with UC Berkeley’s Campus Wide Staff Appreciation Award for “going above and beyond what is normally done” and nominated for the Outstanding Peer Advisor Award for “exceptional advising, mentoring, and counseling”
 
 * __[Writing Program](https://slc.berkeley.edu/writing) Ambassador__ (_June 2022 - August 2022_)
   * Fostered a warm, courteous, welcoming, and inclusive environment for writers, visitors, and peer and professional staff who arrived at the in-person and virtual Vèvè Writing Lounge
