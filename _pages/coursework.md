@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-Below is a list of all the courses I have taken so far.
+Below is a selection of the courses I have taken so far.
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
