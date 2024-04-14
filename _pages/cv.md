@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: March 23, 2024_
+_Last Updated: April 13, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -124,7 +124,7 @@ __Psi Chi, The International Honor Society in Psychology ([University of Califor
 
 __Political Computer Science @ Berkeley ([PCS](https://pcs.berkeley.edu/))__
 
-* __Vice President of Finance__ (_May 2023 - Present_)
+* __Vice President of Operations__ (_May 2023 - Present_)
   * Oversee an overhaul of the organization’s finance system
   * Secure new funding initiatives to ensure adequate income and maintain long-term viability
   * Plan and review the organization’s budget for the semester and spending for each event
