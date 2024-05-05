@@ -4,7 +4,6 @@ collection: research
 type: "Research Assistant"
 permalink: /research/schroeder-ra/
 venue: "University of California, Berkeley: Haas School of Business"
-date: 2023-06-01
 location: "Berkeley, California"
 ---
 
