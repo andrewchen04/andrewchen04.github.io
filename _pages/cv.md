@@ -28,6 +28,7 @@ _Navigate to_:
   * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
   * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/) Recipient
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
+  * [Department of Political Science](https://polisci.berkeley.edu/) [Highest Honors](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program) Recipient
   * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)_) Inductee
   * [Psi Chi](https://www.psichi.org/) (_The International Honor Society in Psychology, [UC Berkeley Chapter](https://psichi.berkeley.edu/)_) Inductee
 
