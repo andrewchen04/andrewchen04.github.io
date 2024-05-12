@@ -21,7 +21,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * POLSCI W164A: Political Psychology and Involvement (_Psychology Elective Course_)
 * [POLSCI H190A / H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Faculty Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
-    - Level of Honors: Highest Honors (_The Only A+ Thesis Grade Recipient in the 2023-24 Cohort of 27 Honors Students_)
+    - Level of Honors: Highest Honors
+        - The Only A+ Thesis Grade Recipient in the 2023-24 Cohort of 27 Honors Students
 * POLSCI 191: Junior Seminar: Representation and Distribution (_Data-Intensive_)
 * [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs)
 
