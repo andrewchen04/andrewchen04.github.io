@@ -9,8 +9,8 @@ Below is a selection of the courses I have taken so far. Courses I am currently 
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
-# Political Science Major Courses
-* ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
+# [Political Science](https://polisci.berkeley.edu/) [Major](https://polisci.berkeley.edu/undergraduate-program) Courses
+* ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present]
 * [POLSCI 5: Introduction to International Relations](https://polisci.berkeley.edu/course/introduction-international-relations-11)
 * [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://github.com/ds-connectors/PolSci-88-FA21)_)
 * [POLSCI 109B: The Politics of Public Policy](https://polisci.berkeley.edu/course/special-topics-american-politics-politics-public-policy)
@@ -27,7 +27,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [POLSCI 191: Junior Seminar: Representation and Distribution](https://polisci.berkeley.edu/node/3407) (_Data-Intensive Course_)
 * [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs)
 
-# Psychology Major Courses
+# [Psychology](https://psychology.berkeley.edu/) [Major](https://psychology.berkeley.edu/students/undergraduate-program) Courses
 * [MCELLBI W61: Brain, Mind, and Behavior](https://classes.berkeley.edu/content/2022-summer-mcellbi-w61-001-wbl-001)
 * [PSYCH 101: Research and Data Analysis in Psychology](https://classes.berkeley.edu/content/2022-spring-psych-101-001-lec-001)
 * [PSYCH C127: Cognitive Neuroscience](https://classes.berkeley.edu/content/2024-spring-psych-c127-001-lec-001)
@@ -39,7 +39,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [PSYCH C162: Human Happiness](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001)
 * [PSYCH N180: Industrial-Organizational Psychology](https://classes.berkeley.edu/content/2023-summer-psych-n180-001-lec-001)
 
-# Data Science Minor Courses
+# [Data Science](https://cdss.berkeley.edu/) [Minor](https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-minor) Courses
 * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Now Known as DATA C88C_)
 * COMPSCI 197: Field Study
 * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
@@ -57,10 +57,10 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 # Pedagogy Courses
 * [COMPSCI 370: Adaptive Instruction Methods in Computer Science](https://inst.eecs.berkeley.edu/~cs370/) (_Graduate Seminar_) (_[Fall 2022](https://classes.berkeley.edu/content/2022-fall-compsci-370-001-lec-001) and Fall 2023_)
-* DATA 198: Directed Group Studies for Advanced Undergraduates (_4 semesters_)
+* DATA 198: Directed Group Studies for Advanced Undergraduates (_Spring 2022, Fall 2022, Fall 2023, and Spring 2024_)
 
-# Research Courses
-* UGBA 199: Supervised Independent Study and Research (_Social Judgment Research_) (_4 semesters_)
+# [Undergraduate Research Apprentice Program](https://research.berkeley.edu/urap/) Courses
+* UGBA 199: Supervised Independent Study and Research (_Social Judgment Research_) (_Fall 2022, Spring 2023, Fall 2023, and Spring 2024_)
 * UGIS 192B: Supervised Research: Social Sciences (_Moral Judgment Research_) (_[Spring 2022](https://classes.berkeley.edu/content/2022-spring-ugis-192b-026-tut-026) and [Fall 2022](https://classes.berkeley.edu/content/2022-fall-ugis-192b-027-tut-027)_)
 
 # Elective Courses
@@ -77,19 +77,19 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
-# Psychology Courses
+# [Psychology](https://www.sdcity.edu/academics/schools-programs/behavioral-social-science/psychology.aspx) Courses
 * PSYC 101: General Psychology
 
 __[San Diego Miramar College](https://sdmiramar.edu/)__, Dual Enrollment High School Student (_August 2018 - June 2020_)
 ======
-# Administration of Justice Courses
+# [Administration of Justice](https://sdmiramar.edu/programs/administration-justice) Courses
 * ADJU 101: Introduction to the Administration of Justice
 * ADJU 102: Criminal Law I
 
-# Political Science Courses
+# [Political Science](https://sdmiramar.edu/programs/political-science) Courses
 * POLI 101: Introduction to Political Science
 * POLI 102: The American Political System
 
-# Sociology Courses
+# [Sociology](https://sdmiramar.edu/programs/sociology) Courses
 * SOCO 101: Principles of Sociology
 * SOCO 110: Contemporary Social Problems
