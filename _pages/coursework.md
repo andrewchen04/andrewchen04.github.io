@@ -12,7 +12,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 # [Political Science](https://polisci.berkeley.edu/) [Major](https://polisci.berkeley.edu/undergraduate-program) Courses
 * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present]
 * [POLSCI 5: Introduction to International Relations](https://polisci.berkeley.edu/course/introduction-international-relations-11)
-* [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://github.com/ds-connectors/PolSci-88-FA21)_)
+* [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://cdss.berkeley.edu/data-science-connector-courses)_) (_[GitHub](https://github.com/ds-connectors/PolSci-88-FA21)_)
 * [POLSCI 109B: The Politics of Public Policy](https://polisci.berkeley.edu/course/special-topics-american-politics-politics-public-policy)
 * [POLSCI 109Z: Crime and Democracy](https://polisci.berkeley.edu/course/selected-topics-american-politics-crime-and-democracy-2)
 * [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (19th and 20th Centuries)
