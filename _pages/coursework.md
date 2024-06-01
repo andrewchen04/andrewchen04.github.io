@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-Below is a selection of the courses I have taken so far.
+Below is a selection of the courses I have taken so far (* = Currently taking).
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
 ======
@@ -17,7 +17,8 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * POLSCI 109Z: Crime and Democracy
 * POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
 * POLSCI 132B: Machine Learning for Social Scientists (_Data Science Elective Course_)
-* POLSCI 161: Public Opinion, Voting, and Participation (_Data-Focused_)
+* POLSCI 132C: Algorithms, Public Policy, and Ethics (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)*
+* POLSCI 161: Public Opinion, Voting and Participation (_Data-Focused_)
 * POLSCI W164A: Political Psychology and Involvement (_Psychology Elective Course_)
 * [POLSCI H190A / H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Faculty Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
@@ -31,8 +32,10 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * PSYCH 101: Research and Data Analysis in Psychology
 * PSYCH C127: Cognitive Neuroscience
 * PSYCH 130: Clinical Psychology
+* PSYCH 133: Psychology of Sleep*
 * PSYCH 134: Health Psychology
 * PSYCH 147: Methods in Cognitive Development
+* PSYCH 160: Social Psychology*
 * PSYCH C162: Human Happiness
 * PSYCH N180: Industrial-Organizational Psychology
 
@@ -43,6 +46,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
+* ECON 140: Econometrics
 * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
 * STAT 2: Introduction to Statistics
 * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Now Known as DATA C88S_)
