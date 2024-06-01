@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: May 31, 2024_
+_Last Updated: June 1, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -29,7 +29,7 @@ _Navigate to_:
   * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/) Recipient
   * [College of Letters & Science](https://ls.berkeley.edu/) [Honors to Date](https://lsadvising.berkeley.edu/policies/deans-listhonors) Recipient
   * [Department of Political Science](https://polisci.berkeley.edu/) [Highest Honors](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program) Recipient
-  * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups)_) Inductee
+  * [Pi Sigma Alpha](https://pisigmaalpha.org/) (_The National Political Science Honor Society, [UC Berkeley Iota Chapter](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/student-groups#PSAHS)_) Inductee
   * [Psi Chi](https://www.psichi.org/) (_The International Honor Society in Psychology, [UC Berkeley Chapter](https://psichi.berkeley.edu/)_) Inductee
 
 [Teaching Experience](#teaching-experience)
