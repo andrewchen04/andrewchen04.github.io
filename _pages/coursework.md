@@ -11,15 +11,15 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 ======
 # Political Science Major Courses
 * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
-* POLSCI 5: Introduction to International Relations
+* [POLSCI 5: Introduction to International Relations](https://polisci.berkeley.edu/course/introduction-international-relations-11)
 * [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://github.com/ds-connectors/PolSci-88-FA21)_)
 * POLSCI 109B: The Politics of Public Policy
-* POLSCI 109Z: Crime and Democracy
-* POLSCI 112C: History of Modern Political Theory (19th and 20th Centuries)
+* [POLSCI 109Z: Crime and Democracy](https://polisci.berkeley.edu/course/selected-topics-american-politics-crime-and-democracy-2)
+* [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (19th and 20th Centuries)
 * POLSCI 132B: Machine Learning for Social Scientists (_Data Science Elective Course_)
 * POLSCI 132C: Algorithms, Public Policy, and Ethics (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)*
 * POLSCI 161: Public Opinion, Voting and Participation (_Data-Focused_)
-* POLSCI W164A: Political Psychology and Involvement (_Psychology Elective Course_)
+* [POLSCI W164A: Political Psychology and Involvement](https://polisci.berkeley.edu/course/political-psychology-and-involvement-9) (_Psychology Elective Course_)
 * [POLSCI H190A / H190B: Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Faculty Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
     - Level of Honors: Highest Honors
@@ -48,7 +48,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
 * ECON 140: Econometrics
 * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
-* STAT 2: Introduction to Statistics
+* [STAT 2: Introduction to Statistics](https://classes.berkeley.edu/content/2021-fall-stat-2-001-lec-001)
 * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Now Known as DATA C88S_)
 * [STAT C131A: Statistical Methods for Data Science](https://epurdom.github.io/Stat131A/)
 * [STAT 133: Concepts in Computing with Data](https://www.gastonsanchez.com/intro2cwd/)
@@ -64,16 +64,16 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * UGIS 192B: Supervised Research: Social Sciences (_Moral Judgment Research_) (_2 semesters_)
 
 # Elective Courses
-* ANTHRO R5B: Reading and Composition in Anthropology
-* ECON 1: Introduction to Economics (_Macroeconomics and Microeconomics_)
+* [ANTHRO R5B: Reading and Composition in Anthropology: Biopolitics, Welfare, Neoliberalism](https://classes.berkeley.edu/content/2020-fall-anthro-r5b-002-lec-002)
+* [ECON 1: Introduction to Economics](https://classes.berkeley.edu/content/2021-spring-econ-1-001-lec-001) (_Macroeconomics and Microeconomics_)
 * [EPS 7: Introduction to Climate Change](https://romps.berkeley.edu/teaching/courses-2020-fall-eps7.html)
 * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
 * [HISTORY 98BC: Berkeley Connect in History](https://berkeleyconnect.berkeley.edu/finding-connection/participating-departments/history)
-* LS 2: Democracy in Crisis?
+* [LS 2: Democracy in Crisis?](https://classes.berkeley.edu/content/2020-fall-ls-2-001-lec-001)
 * [LS 110: Brilliance of Berkeley](https://curricularconnections.berkeley.edu/ls110/)
-* NUSCTX 11: Introduction to Toxicology
+* [NUSCTX 11: Introduction to Toxicology](https://classes.berkeley.edu/content/2021-spring-nusctx-11-001-lec-001)
 * THEATER 5: Public Speaking and Presentation Skills
-* UGBA 135: Personal Financial Management
+* [UGBA 135: Personal Financial Management](https://classes.berkeley.edu/content/2021-spring-ugba-135-001-lec-001)
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
