@@ -1,7 +1,7 @@
 ---
 title: "Lead Facilitator, Berkeley Unboxing Data Science (BUDS) (_Summer 2023_)"
 collection: teaching
-type: "Academic Internship Program"
+type: "Internship Program"
 permalink: /teaching/2023-summer/
 venue: "University of California, Berkeley: College of Computing, Data Science, and Society (CDSS)"
 date: 2023-06-01
