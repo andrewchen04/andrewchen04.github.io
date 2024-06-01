@@ -20,12 +20,12 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics) (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)__*__
 * [POLSCI 161: Public Opinion, Voting and Participation](https://polisci.berkeley.edu/course/public-opinion-voting-and-participation-0) (_Data-Focused Course_)
 * [POLSCI W164A: Political Psychology and Involvement](https://polisci.berkeley.edu/course/political-psychology-and-involvement-9) (_Psychology Elective Course_)
-* [POLSCI H190A](https://classes.berkeley.edu/content/2023-fall-polsci-h190a-002-sem-002) / [H190B](https://classes.berkeley.edu/content/2024-spring-polsci-h190b-001-sem-001): [Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
+* [POLSCI H190A](https://classes.berkeley.edu/content/2023-fall-polsci-h190a-002-sem-002) __/__ [H190B](https://classes.berkeley.edu/content/2024-spring-polsci-h190b-001-sem-001): [Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
     - Thesis Faculty Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
     - Level of Honors: Highest Honors
         - The _Only_ A+ Thesis Grade Recipient in the 2023-24 Cohort of 27 Honors Students
 * [POLSCI 191: Representation and Distribution](https://polisci.berkeley.edu/node/3407) (_Junior Seminar and Data-Focused Course_)
-* [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs)
+* [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs) ([Journal Article](https://doi.org/10.1086/726954))
 
 # [Psychology](https://psychology.berkeley.edu/) [Major](https://psychology.berkeley.edu/students/undergraduate-program) Courses
 * [MCELLBI W61: Brain, Mind, and Behavior](https://classes.berkeley.edu/content/2022-summer-mcellbi-w61-001-wbl-001)
