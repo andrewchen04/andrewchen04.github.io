@@ -15,7 +15,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [POLSCI 88: The Scientific Study of Politics](https://anthlittle.github.io/files/ps88syllabusF2021.pdf) (_[Data Science Connector Course](https://cdss.berkeley.edu/data-science-connector-courses)_) ([GitHub](https://github.com/ds-connectors/PolSci-88-FA21))
 * [POLSCI 109B: The Politics of Public Policy](https://polisci.berkeley.edu/course/special-topics-american-politics-politics-public-policy)
 * [POLSCI 109Z: Crime and Democracy](https://polisci.berkeley.edu/course/selected-topics-american-politics-crime-and-democracy-2)
-* [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (19th and 20th Centuries)
+* [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (_19th and 20th Centuries_)
 * [POLSCI 132B: Machine Learning for Social Scientists](https://polisci.berkeley.edu/course/machine-learning-social-scientists) (_Data Science Elective Course_)
 * [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics) (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)__*__
 * [POLSCI 161: Public Opinion, Voting and Participation](https://polisci.berkeley.edu/course/public-opinion-voting-and-participation-0) (_Data-Focused Course_)
