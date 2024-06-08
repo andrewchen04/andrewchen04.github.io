@@ -17,7 +17,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [POLSCI 109Z: Crime and Democracy](https://polisci.berkeley.edu/course/selected-topics-american-politics-crime-and-democracy-2)
 * [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (_19th and 20th Centuries_)
 * [POLSCI 132B: Machine Learning for Social Scientists](https://polisci.berkeley.edu/course/machine-learning-social-scientists) (_Data Science Elective Course_)
-* [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics) (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)__*__
+* [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics)__*__ (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)
 * [POLSCI 161: Public Opinion, Voting and Participation](https://polisci.berkeley.edu/course/public-opinion-voting-and-participation-0) (_Data-Focused Course_)
 * [POLSCI W164A: Political Psychology and Involvement](https://polisci.berkeley.edu/course/political-psychology-and-involvement-9) (_Psychology Elective Course_)
 * [POLSCI H190A](https://classes.berkeley.edu/content/2023-fall-polsci-h190a-002-sem-002) __/__ [H190B](https://classes.berkeley.edu/content/2024-spring-polsci-h190b-001-sem-001): [Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
