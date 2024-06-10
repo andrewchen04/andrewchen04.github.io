@@ -1,5 +1,5 @@
 ---
-title: "Lead Undergraduate Student Instructor, DATA C8: Foundations of Data Science (_Summer 2024_)"
+title: "Course Director, DATA C8: Foundations of Data Science (_Summer 2024_)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2024-summer/
