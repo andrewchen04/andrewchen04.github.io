@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-_Last Updated: June 1, 2024_
+_Last Updated: August 23, 2024_
 
 _Navigate to_:
 [Education](https://andrewchen04.github.io/cv/#education), 
@@ -23,7 +23,7 @@ _Navigate to_:
 
 [Education](#education)
 ======
-* __B.A. (Highest Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, December 2024
+* __B.A. (Highest Honors) in Political Science, B.A. in Psychology, Minor in Data Science, University of California, Berkeley__, July 2025
   * [Cal Alumni Association](https://alumni.berkeley.edu/) [Leadership Award](https://alumni.berkeley.edu/give-back/support-leadership-award/) Recipient
   * [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
   * [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/) [Recipient](https://gsi.berkeley.edu/ogsi-recipients-2023-2024/)
