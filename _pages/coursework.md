@@ -71,7 +71,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [NUSCTX 11: Introduction to Toxicology](https://classes.berkeley.edu/content/2021-spring-nusctx-11-001-lec-001)
 * THEATER 5: Public Speaking and Presentation Skills
 * [UGBA 135: Personal Financial Management](https://www.dropbox.com/scl/fo/icgivb8b9zc9djrjyxvq9/ADnZP9bHWKLeO1Cy3eeEi5Q/UGBA135/2021-1-spring-135-selinger.pdf?rlkey=9eyb3lcrh3lp2r8yq2juss8ly&e=1&dl=0)
-* [UGBA 198: Directed Study (_Credit Cards and Loyalty Programs_)
+* UGBA 198: Directed Study (_Credit Cards and Loyalty Programs_)
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
