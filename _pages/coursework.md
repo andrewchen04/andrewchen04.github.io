@@ -35,7 +35,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [PSYCH 133: Psychology of Sleep](https://classes.berkeley.edu/content/2024-fall-psych-133-001-lec-001)__*__
 * [PSYCH 134: Health Psychology](https://classes.berkeley.edu/content/2022-fall-psych-134-001-lec-001)
 * [PSYCH 147: Methods in Cognitive Development](https://classes.berkeley.edu/content/2023-spring-psych-147-001-lec-001)
-* [PSYCH 160: Social Psychology](https://classes.berkeley.edu/content/2024-fall-psych-160-002-lec-002)__*__
 * [PSYCH C162: Human Happiness](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001)
 * [PSYCH N180: Industrial-Organizational Psychology](https://classes.berkeley.edu/content/2023-summer-psych-n180-001-lec-001)
 
@@ -46,7 +45,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
-* [ECON 140: Econometrics](https://classes.berkeley.edu/content/2024-fall-econ-140-001-lec-001)__*__
 * [PBHLTH 142: Introduction to Probability and Statistics in Biology and Public Health](https://github.com/ph142-ucb/ph142-sp22)
 * [STAT 2: Introduction to Statistics](https://classes.berkeley.edu/content/2021-fall-stat-2-001-lec-001)
 * [STAT 88: Probability and Mathematical Statistics in Data Science](http://stat88.org/) (_Now Known as DATA C88S_)
@@ -74,6 +72,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [NUSCTX 11: Introduction to Toxicology](https://classes.berkeley.edu/content/2021-spring-nusctx-11-001-lec-001)
 * THEATER 5: Public Speaking and Presentation Skills
 * [UGBA 135: Personal Financial Management](https://www.dropbox.com/scl/fo/icgivb8b9zc9djrjyxvq9/ADnZP9bHWKLeO1Cy3eeEi5Q/UGBA135/2021-1-spring-135-selinger.pdf?rlkey=9eyb3lcrh3lp2r8yq2juss8ly&e=1&dl=0)
+* [UGBA 198: Directed Study (_Credit Cards and Loyalty Programs_)
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
