@@ -32,7 +32,6 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [PSYCH 101: Research and Data Analysis in Psychology](https://classes.berkeley.edu/content/2022-spring-psych-101-001-lec-001)
 * [PSYCH C127: Cognitive Neuroscience](https://classes.berkeley.edu/content/2024-spring-psych-c127-001-lec-001)
 * [PSYCH 130: Clinical Psychology](https://classes.berkeley.edu/content/2023-spring-psych-130-001-lec-001)
-* [PSYCH 133: Psychology of Sleep](https://classes.berkeley.edu/content/2024-fall-psych-133-001-lec-001)__*__
 * [PSYCH 134: Health Psychology](https://classes.berkeley.edu/content/2022-fall-psych-134-001-lec-001)
 * [PSYCH 147: Methods in Cognitive Development](https://classes.berkeley.edu/content/2023-spring-psych-147-001-lec-001)
 * [PSYCH C162: Human Happiness](https://classes.berkeley.edu/content/2023-fall-psych-c162-001-lec-001)
