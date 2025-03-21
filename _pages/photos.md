@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-Please enjoy this assortment of photos!
+Please enjoy this assortment of (old) photos!
 
 [Fall 2023](#fall-2023)
 ======
