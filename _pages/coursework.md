@@ -5,9 +5,9 @@ permalink: /coursework/
 author_profile: true
 ---
 
-Below is a selection of the courses I have taken so far. Courses I am currently taking are denoted with an asterisk (__*__) after their names.
+Below is a selection of the courses I have taken so far. The courses I am currently taking are denoted with an asterisk (__*__) after their names.
 
-__[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - Present_)
+__[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - August 2025_)
 ======
 # [Political Science](https://polisci.berkeley.edu/) [Major](https://polisci.berkeley.edu/undergraduate-program) Courses
 * ETHSTD 10AC: A History of Race and Ethnicity in Western North America, 1598 - Present
@@ -75,11 +75,13 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 
 __[University of Padua](https://www.unipd.it/en/)__, Bilteral Exchange Student (_February 2025 - July 2025_)
 ======
-# [School of Psychology](https://www.psicologia.unipd.it/en/) Courses
-* [LEN1036348: Italian Language Lab - L2](https://en.didattica.unipd.it/off/2024/LT/SU/SU2294/000ZZ/LEN1036348/N0)__*__
+# [Department of General Psychology](https://www.dpg.unipd.it/en/) Courses
 * [PSP5070157: Human Sexuality](https://en.didattica.unipd.it/off/2022/LT/PS/PS2648/000ZZ/PSP5070157/N0)__*__
 * [PSP9088839: Social Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088839/N0)__*__
 * [PSP9088842: Statistical Methods for Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088842/N0)__*__
+
+# [University Language Center](https://cla.unipd.it/en/) Courses
+* [CLA: Italian Language Lab - L2, A1](https://cla.unipd.it/en/language-courses/italian-courses/biannual-courses/)__*__
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
