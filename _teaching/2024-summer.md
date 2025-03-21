@@ -7,6 +7,8 @@ venue: "University of California, Berkeley: College of Computing, Data Science, 
 date: 2024-06-01
 location: "Berkeley, California"
 ---
+__Evaluations__:
+- [Andrew Chen (DATA C8 LEC 001 Foundations of Data Science _(EVAL FOR GSI)_) - Summer 2024](https://drive.google.com/file/d/1RTeIZZJuNBGIPjv_OhFOLBj3h_Km23dV/view?usp=sharing)
 
 __Responsibilities__:
 - Led a staff of 5 Leads, 7 Undergraduate Student Instructors, and 11 Tutors through all aspects of the course
