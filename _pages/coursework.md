@@ -17,7 +17,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [POLSCI 109Z: Crime and Democracy](https://polisci.berkeley.edu/course/selected-topics-american-politics-crime-and-democracy-2)
 * [POLSCI 112C: History of Modern Political Theory](https://www.danielacammack.com/_files/ugd/3c6e57_257b088008194ddd9fcb3ce8701fd90f.pdf) (_19th and 20th Centuries_)
 * [POLSCI 132B: Machine Learning for Social Scientists](https://polisci.berkeley.edu/course/machine-learning-social-scientists) (_Data Science Elective Course_)
-* [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics)__*__ (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)
+* [POLSCI 132C: Algorithms, Public Policy, and Ethics](https://polisci.berkeley.edu/course/berkeley-changemaker-algorithms-public-policy-and-ethics) (_[Berkeley Changemaker](https://changemaker.berkeley.edu/) and Data Science Elective Course_)
 * [POLSCI 161: Public Opinion, Voting and Participation](https://polisci.berkeley.edu/course/public-opinion-voting-and-participation-0) (_Data-Focused Course_)
 * [POLSCI W164A: Political Psychology and Involvement](https://polisci.berkeley.edu/course/political-psychology-and-involvement-9) (_Psychology Elective Course_)
 * [POLSCI H190A](https://classes.berkeley.edu/content/2023-fall-polsci-h190a-002-sem-002) __/__ [H190B](https://classes.berkeley.edu/content/2024-spring-polsci-h190b-001-sem-001): [Honors Seminar](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)
@@ -72,6 +72,14 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * THEATER 5: Public Speaking and Presentation Skills
 * [UGBA 135: Personal Financial Management](https://www.dropbox.com/scl/fo/icgivb8b9zc9djrjyxvq9/ADnZP9bHWKLeO1Cy3eeEi5Q/UGBA135/2021-1-spring-135-selinger.pdf?rlkey=9eyb3lcrh3lp2r8yq2juss8ly&e=1&dl=0)
 * UGBA 198: Directed Study (_Credit Cards and Loyalty Programs_)
+
+__[University of Padua](https://www.unipd.it/en/)__, Bilteral Exchange Student (_February 2025 - July 2025_)
+======
+# [School of Psychology](https://www.psicologia.unipd.it/en/) Courses
+* [LEN1036348: Italian Language Lab - L2](https://en.didattica.unipd.it/off/2024/LT/SU/SU2294/000ZZ/LEN1036348/N0)__*__
+* [PSP5070157: Human Sexuality](https://en.didattica.unipd.it/off/2022/LT/PS/PS2648/000ZZ/PSP5070157/N0)__*__
+* [PSP9088839: Social Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088839/N0)__*__
+* [PSP9088842: Statistical Methods for Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088842/N0)__*__
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
