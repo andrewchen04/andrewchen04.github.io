@@ -5,7 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 
-Below is a selection of the courses I have taken so far. The courses I am currently taking are denoted with an asterisk (__*__) after their names.
+Below is a selection of the courses I completed as an undergraduate student.
 
 __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergraduate Student (_July 2020 - August 2025_)
 ======
@@ -73,15 +73,15 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [UGBA 135: Personal Financial Management](https://www.dropbox.com/scl/fo/icgivb8b9zc9djrjyxvq9/ADnZP9bHWKLeO1Cy3eeEi5Q/UGBA135/2021-1-spring-135-selinger.pdf?rlkey=9eyb3lcrh3lp2r8yq2juss8ly&e=1&dl=0)
 * UGBA 198: Directed Study (_Credit Cards and Loyalty Programs_)
 
-__[University of Padua](https://www.unipd.it/en/)__, Bilteral Exchange Student (_February 2025 - July 2025_)
+__[University of Padua](https://www.unipd.it/en/)__, Bilateral Exchange Student (_February 2025 - July 2025_)
 ======
 # [Department of General Psychology](https://www.dpg.unipd.it/en/) Courses
-* [PSP5070157: Human Sexuality](https://en.didattica.unipd.it/off/2022/LT/PS/PS2648/000ZZ/PSP5070157/N0)__*__
-* [PSP9088839: Social Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088839/N0)__*__
-* [PSP9088842: Statistical Methods for Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088842/N0)__*__
+* [PSP5070157: Human Sexuality](https://en.didattica.unipd.it/off/2022/LT/PS/PS2648/000ZZ/PSP5070157/N0)
+* [PSP9088839: Social Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088839/N0)
+* [PSP9088842: Statistical Methods for Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088842/N0)
 
 # [University Language Center](https://cla.unipd.it/en/) Courses
-* [CLA: Italian Language Lab - L2, A1](https://cla.unipd.it/en/language-courses/italian-courses/biannual-courses/)__*__
+* [CLA: Italian Language Lab - L2, A1](https://cla.unipd.it/en/language-courses/italian-courses/biannual-courses/)
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
