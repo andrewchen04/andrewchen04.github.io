@@ -8,7 +8,7 @@ date: 2024-06-01
 location: "Berkeley, California"
 ---
 __Evaluations__:
-- [Andrew Chen (DATA C8 LEC 001 Foundations of Data Science _(EVAL FOR GSI)_) - Summer 2024](https://drive.google.com/file/d/1RTeIZZJuNBGIPjv_OhFOLBj3h_Km23dV/view?usp=sharing)
+- [Andrew Chen (DATA C8 LEC 001 Foundations of Data Science _(EVAL FOR GSI)_) - Summer 2024 Individual Report](https://drive.google.com/file/d/1RTeIZZJuNBGIPjv_OhFOLBj3h_Km23dV/view?usp=sharing)
 
 __Responsibilities__:
 - Led a staff of 5 Leads, 7 Undergraduate Student Instructors, and 11 Tutors through all aspects of the course
@@ -20,6 +20,7 @@ __Responsibilities__:
 - Ensured compliance with campus accommodations for students with disabilities and procedures for students resolving past “Incomplete” grades
 - Ensured staff members were fulfilling their assigned duties and accurately reporting their workloads
 - Interfaced with department and campus staff to ensure the course’s seamless functioning
+- Participated as a guest speaker representing the course in departmental events
 - Remained on call for student and staff emergencies via email, Slack, and Ed Discussion
 
 _Course materials are available [here](http://www.data8.org/su24/)._
