@@ -81,7 +81,7 @@ __[University of Padua](https://www.unipd.it/en/)__, Bilateral Exchange Student 
 * [PSP9088842: Statistical Methods for Psychology](https://en.didattica.unipd.it/off/2024/LT/PS/PS2589/000ZZ/PSP9088842/N0)
 
 # [University Language Center](https://cla.unipd.it/en/) Courses
-* [CLA: Italian Language Lab - L2, A1](https://cla.unipd.it/en/language-courses/italian-courses/biannual-courses/)
+* [LEN1036348: Italian Language Lab - L2, A1](https://cla.unipd.it/en/language-courses/italian-courses/biannual-courses/)
 
 __[San Diego City College](https://www.sdcity.edu/)__, Winter Intersession Student (_January 2022_)
 ======
