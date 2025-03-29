@@ -24,6 +24,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
     - Thesis Faculty Advisors: [Terri Bimes](https://polisci.berkeley.edu/people/person/terri-bimes), [David Broockman](https://polisci.berkeley.edu/people/person/david-edward-broockman), and [Juliana Schroeder](https://julianaschroeder.com/)
     - Level of Honors: Highest Honors
         - The _Only_ A+ Thesis Grade Recipient in the 2023-24 Cohort of 27 Honors Students
+    - [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research) [Recipient](https://igs.berkeley.edu/people/andrew-huong-yet-chen)
 * [POLSCI 191: Representation and Distribution](https://polisci.berkeley.edu/node/3407) (_Junior Seminar and Data-Focused Course_)
 * [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs) ([Journal Article](https://doi.org/10.1086/726954))
 
@@ -41,6 +42,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Now Known as DATA C88C_)
 * COMPSCI 197: Field Study
 * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
+    - Joined the teaching staff for multiple iterations of this course (_see [Teaching](https://andrewchen04.github.io/teaching/) tab_) and was a [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/) [Recipient](https://gsi.berkeley.edu/ogsi-recipients-2023-2024/)
 * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
