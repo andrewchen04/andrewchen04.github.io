@@ -42,7 +42,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [COMPSCI 88: Computational Structures in Data Science](https://c88c.org/fa21/) (_Now Known as DATA C88C_)
 * COMPSCI 197: Field Study
 * [DATA C8: Foundations of Data Science](http://www.data8.org/su21/)
-    - Joined the teaching staff for multiple iterations of this course (_see [Teaching](https://andrewchen04.github.io/teaching/) tab_) and was a [Recipient](https://gsi.berkeley.edu/ogsi-recipients-2023-2024/) of the [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/)
+    - Joined the teaching staff for multiple iterations of this course (_see the [Teaching](https://andrewchen04.github.io/teaching/) tab_) and was a [Recipient](https://gsi.berkeley.edu/ogsi-recipients-2023-2024/) of the [Graduate Division](https://grad.berkeley.edu/) [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/) (OGSI) Award in [Data Science](https://data.berkeley.edu/)
 * [DIGHUM 100: Theory and Method in the Digital Humanities](https://sites.google.com/berkeley.edu/dighum-100/home)
     - Group Project: Inequality in Education in the United States ([Wix](https://dighum100su23.wixsite.com/education-dh100su23))
     - In-Class Project: Visualizations of Oakland, California Airbnb Properties ([Tableau](https://public.tableau.com/app/profile/andrewchen04/viz/OaklandAirbnb/OaklandAirbnb))
@@ -66,6 +66,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
 * [ANTHRO R5B: Reading and Composition in Anthropology: Biopolitics, Welfare, Neoliberalism](https://classes.berkeley.edu/content/2020-fall-anthro-r5b-002-lec-002)
 * [ECON 1: Introduction to Economics](https://classes.berkeley.edu/content/2021-spring-econ-1-001-lec-001) (_Macroeconomics and Microeconomics_)
 * [EPS 7: Introduction to Climate Change](https://romps.berkeley.edu/teaching/courses-2020-fall-eps7.html)
+  - Joined the teaching staff for one iteration of this course (_see the [Teaching](https://andrewchen04.github.io/teaching/) tab_)
 * ESPM 98: Directed Studies in Environmental Science, Policy, and Management
 * [HISTORY 98BC: Berkeley Connect in History](https://berkeleyconnect.berkeley.edu/finding-connection/participating-departments/history)
 * [LS 2: Democracy in Crisis?](https://classes.berkeley.edu/content/2020-fall-ls-2-001-lec-001)
