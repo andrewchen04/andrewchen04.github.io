@@ -7,3 +7,5 @@ venue: "University of California, Berkeley: College of Computing, Data Science, 
 date: 2025-07-01
 location: "Berkeley, California"
 ---
+
+_Course materials are available [here](https://data6.org/)._
