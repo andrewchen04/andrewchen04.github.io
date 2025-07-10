@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Andrew, a fifth-year undergraduate pursuing a double major in [Political Science](https://polisci.berkeley.edu/) (with [Highest Honors](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)) and [Psychology](https://psychology.berkeley.edu/) and a minor in [Data Science](https://data.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). I am currently studying abroad at the [School of Psychology](https://www.psicologia.unipd.it/en/) at the [University of Padua](https://www.unipd.it/en/) until July 2025.
+Hello! I'm Andrew, a recent graduate of the [University of California, Berkeley](https://www.berkeley.edu/), where I completed a double major in [Political Science](https://polisci.berkeley.edu/) (with [Highest Honors](https://polisci.berkeley.edu/undergraduate-program/academic-opportunities/honors-program)) and [Psychology](https://psychology.berkeley.edu/), along with a minor in [Data Science](https://data.berkeley.edu/).
 
-I am passionate about studying the intersections between politics, psychology, data, and education. In particular, I am interested in researching the psychosocial factors that influence public opinion, especially biases, social pressure, and the lack of accurate information, through laboratory and field experiments.
+I'm passionate about exploring the intersections between politics, psychology, data, and education. My research interests center on the psychosocial factors that influence public opinion—particularly how bias, social pressure, and misinformation influence political behavior—through both laboratory and field experiments.
 
-Outside of my own academics and research, I'm committed to empowering students to accomplish their personal and academic ambitions by ensuring that all students are well-equipped with the resources they need to succeed through my work with multiple student organizations, the Associated Students of the University of California ([ASUC](https://asuc.org/)), the College of Computing, Data Science, and Society ([CDSS](https://data.berkeley.edu/)), and the Student Learning Center ([SLC](https://slc.berkeley.edu/)) at UC Berkeley.
+As an undergraduate, I was deeply involved in student support and advocacy. I've worked with the Associated Students of the University of California ([ASUC](https://asuc.org/)), the College of Computing, Data Science, and Society ([CDSS](https://data.berkeley.edu/)), and the Student Learning Center ([SLC](https://slc.berkeley.edu/)) to help expand access to academic resources and mentorship opportunities.
 
-Please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/andrewchen04/) or by [email](mailto:andrew_chen04@berkeley.edu)!
+Please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andrewchen04/) or [email](mailto:andrew_chen04@berkeley.edu), I'd love to connect!
