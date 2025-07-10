@@ -8,4 +8,4 @@ date: 2025-07-01
 location: "Berkeley, California"
 ---
 
-_Course materials are available [here](https://data6.org/)._
+_Course materials are available [here](https://data6.org/su25/)._
