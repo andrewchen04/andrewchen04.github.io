@@ -1,5 +1,5 @@
 ---
-title: "Social and Moral Judgment Lab / Berkeley Haas Behavioral Lab Research Apprentice (_January 2022 - December 2022_)"
+title: "Research Apprentice, Social and Moral Judgment Lab / Berkeley Haas Behavioral Lab (_January 2022 - December 2022_)"
 collection: research
 type: "Research Assistant"
 permalink: /research/critcher-ra/
