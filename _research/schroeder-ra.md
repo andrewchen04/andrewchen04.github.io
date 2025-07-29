@@ -1,5 +1,5 @@
 ---
-title: "Social and Moral Judgment Lab / Experimental Social Science Laboratory Lead Research Apprentice (_June 2022 - April 2025_)"
+title: "Lead Research Apprentice, Social and Moral Judgment Lab / Experimental Social Science Laboratory (_June 2022 - April 2025_)"
 collection: research
 type: "Research Assistant"
 permalink: /research/schroeder-ra/
