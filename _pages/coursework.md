@@ -26,7 +26,7 @@ __[University of California, Berkeley](https://www.berkeley.edu/)__, Undergradua
         - The _Only_ A+ Thesis Grade Recipient in the 2023-24 Cohort of 27 Honors Students
     - [Award](https://igs.berkeley.edu/people/andrew-huong-yet-chen): [Institute of Governmental Studies](https://igs.berkeley.edu/) [Charles H. Percy Undergraduate Grant for Public Affairs Research](https://igs.berkeley.edu/student-opportunities/awards-grants/charles-h-percy-undergraduate-grant-public-affairs-research)
 * [POLSCI 191: Representation and Distribution](https://polisci.berkeley.edu/node/3407) (_Junior Seminar and Data-Focused Course_)
-* [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs) ([Journal Article](https://doi.org/10.1086/726954))
+* [POLSCI 192: Pipeline Initiative in Political Science (PIPS)](https://polisci.berkeley.edu/political-science-cal/undergraduate-programs) (_[Journal Article](https://doi.org/10.1086/726954)_)
 
 ## [Psychology](https://psychology.berkeley.edu/) [Major](https://psychology.berkeley.edu/students/undergraduate-program) Courses
 * [MCELLBI W61: Brain, Mind, and Behavior](https://classes.berkeley.edu/content/2022-summer-mcellbi-w61-001-wbl-001)
