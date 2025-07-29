@@ -1,5 +1,5 @@
 ---
-title: "Social and Moral Judgment Lab Interim Manager (_May 2023 - June 2023_)"
+title: "Interim Manager, Social and Moral Judgment Lab (_May 2023 - June 2023_)"
 collection: research
 type: "Lab Manager"
 permalink: /research/somo-manager/
